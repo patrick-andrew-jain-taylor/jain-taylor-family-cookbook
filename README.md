@@ -6,6 +6,10 @@ title: Recipes
 
 * [Avocado Toast](recipes/breakfast/avocado-toast.md)
 
+## Cheese
+
+* [Pizza Cheese](recipes/cheese/pizza.md)
+
 ## Dough
 
 * [Pizza Dough](recipes/dough/pizza.md)
