@@ -47,3 +47,5 @@ footer_links:
   - title: GitHub
     url: https://github.com/patrick-andrew-jain-taylor
     icon: fab fa-github-square
+collections:
+  authors:
