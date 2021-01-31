@@ -1,5 +1,5 @@
-# remote_theme: mmistakes/so-simple-theme
-# locale: en-US
+remote_theme: mmistakes/so-simple-theme
+locale: en-US
 title: "The Jain-Taylor Family Cookbook"
 description: "Generations of Recipes, From GG to You and Me"\
 baseurl: "/recipes"
@@ -14,7 +14,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-sitemap
 paginate: 10
-paginate_path: /page:num/
+paginate_path: "/page:num/"
 relative_links:
   enabled: true
   collections: true
