@@ -1,6 +1,4 @@
----
-title: Recipes
----
+# Recipes
 
 ## Breakfast
 
