@@ -1,1 +1,3 @@
-# Sauce - Pizza
+---
+title: Pizza Sauce
+---

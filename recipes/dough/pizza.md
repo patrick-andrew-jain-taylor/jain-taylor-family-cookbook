@@ -1,1 +1,3 @@
-# Dough - Pizza
+---
+title: Pizza Dough
+---

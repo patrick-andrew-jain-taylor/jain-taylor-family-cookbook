@@ -1,1 +1,3 @@
-# Sauce - Impossible Bolognese
+---
+title: Impossible Bolognese Sauce
+---

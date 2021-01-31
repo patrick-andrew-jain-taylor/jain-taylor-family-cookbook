@@ -1,4 +1,6 @@
-# Avocado Toast
+---
+title: Avocado Toast
+---
 
 ## Ingredients
 

@@ -1,1 +1,3 @@
-# Seasoning - French Fry
+---
+title: French Fry Seasoning
+---

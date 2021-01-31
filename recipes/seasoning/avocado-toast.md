@@ -1,4 +1,6 @@
-# Seasoning - Avocado Toast
+---
+title: Avocado Toast Seasoning
+---
 
 |           Spice           | Quantity |
 |:-------------------------:|:--------:|

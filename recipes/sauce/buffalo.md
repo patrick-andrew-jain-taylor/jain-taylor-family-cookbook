@@ -1,4 +1,6 @@
-# Sauce - Buffalo
+---
+title: Buffalo Sauce
+---
 
 ## Ingredients
 

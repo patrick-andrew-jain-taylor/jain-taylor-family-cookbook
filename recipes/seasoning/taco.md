@@ -1,1 +1,3 @@
-# Seasoning - Taco
+---
+title: Taco Seasoning
+---
