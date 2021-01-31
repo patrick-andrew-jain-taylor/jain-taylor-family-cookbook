@@ -8,7 +8,7 @@
 |       Lime Juice      | 1/2 Tablespoon |
 | Frank's Red Hot Sauce |    To Taste    |
 
-## [Spice Mix](../../master/seasoning/avocado-toast.md)
+## [Spice Mix](../../main/seasoning/avocado-toast.md)
 
 ## Instructions
 
