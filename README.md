@@ -12,6 +12,7 @@ title: Recipes
 
 ## Entree
 
+* [South Shore Bar Pizza](recipes/entree/italindian-risotto.md)
 * [Italindian Risotto](recipes/entree/italindian-risotto.md)
 
 ## Sauce

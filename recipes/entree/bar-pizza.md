@@ -1,3 +1,7 @@
+---
+title: South Shore Bar Pizza
+---
+
 ## Dough
 
 [Dough Recipe](../dough/pizza.md)
