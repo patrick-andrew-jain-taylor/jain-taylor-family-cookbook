@@ -31,7 +31,7 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 author:
   name: Patrick Jain-Taylor
-  picture: "/assets/img/pjt.jpg"
+  picture: "/assets/img/pjt.jpeg"
   email: "patrick.andrew.taylor@gmail.com"
   twitter: PJainTaylor
   links:
@@ -40,7 +40,7 @@ author:
       icon: fab fa-twitter-square
     - title: LinkedIn
       url: https://linkedin.com/in/pjaintaylor
-      icon: fab fa-linkedin-square
+      icon: fab fa-linkedin
     - title: GitHub
       url: https://github.com/patrick-andrew-jain-taylor
       icon: fab fa-github-square
