@@ -1,4 +1,5 @@
-locale: en-US
+# remote_theme: mmistakes/so-simple-theme
+# locale: en-US
 title: "The Jain-Taylor Family Cookbook"
 description: "Generations of Recipes, From GG to You and Me"\
 baseurl: "/recipes"
@@ -54,4 +55,3 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-remote_theme: mmistakes/so-simple-theme
