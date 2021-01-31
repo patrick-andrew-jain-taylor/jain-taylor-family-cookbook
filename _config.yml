@@ -2,7 +2,6 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "The Jain-Taylor Family Cookbook"
 description: "Generations of Recipes, From GG to You and Me"
-url: "https://recipes.jain-taylor.family"
 logo: "/assets/img/cookbook.jpg"
 date_format: "%B %-d, %Y"
 round-avatar: true
