@@ -12,7 +12,7 @@ title: Recipes
 
 ## Entree
 
-* [Italindian Risotto](recipes/entree/rice/italindian-risotto.md)
+* [Italindian Risotto](recipes/entree/italindian-risotto.md)
 
 ## Sauce
 
