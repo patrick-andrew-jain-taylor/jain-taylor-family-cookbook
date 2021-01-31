@@ -1,6 +1,6 @@
 # Seasoning - Avocado Toast
 
-# Ingredients
+## Ingredients
 
 |     Ingredient    | Quantity |
 |:-----------------:|:--------:|
@@ -13,3 +13,9 @@
 | Frank's Seasoning |    TBD   |
 |  Adobo Seasoning  |    TBD   |
 |        Salt       |    TBD   |
+
+## Instructions
+
+1. Cut avocado into fourths and scoop into a bowl.
+2. Add lime juice to avocado to soften, and mash with a fork until smooth.
+3. Add remaining spices to taste.
