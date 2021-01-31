@@ -1,5 +1,4 @@
 ---
-layout: post
 title: South Shore Bar Pizza
 ---
 
