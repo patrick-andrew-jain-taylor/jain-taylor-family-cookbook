@@ -1,6 +1,8 @@
-# The Jain-Taylor Family Cookbook
-Inspired by [Version control your recipes](https://medium.com/@natalie_w/version-control-your-recipes-fa21fdefacb0) by Natalie Wong 
-[(Repository)](https://github.com/kryptonat/love-at-first-byte)
+---
+layout: index
+title: The Jain-Taylor Family Cookbook
+description: Inspired by [Version control your recipes](https://medium.com/@natalie_w/version-control-your-recipes-fa21fdefacb0) by Natalie Wong [(Repository)](https://github.com/kryptonat/love-at-first-byte)
+---
 
 ## Breakfast
 
