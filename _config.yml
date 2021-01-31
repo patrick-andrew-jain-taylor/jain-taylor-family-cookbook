@@ -1,4 +1,5 @@
 title: [The Jain-Taylor Family Cookbook]
+description:
 author: Patrick Jain-Taylor
 avatar: "/assets/img/cookbook.png"
 round-avatar: true
@@ -15,9 +16,11 @@ share-links-active:
 rss-description: Cookbook for Jain-Taylor Recipes
 keywords: "my,list,of,keywords"
 plugins:
-  - jekyll-relative-links
   - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+paginate: 5
 relative_links:
   enabled: true
   collections: true
