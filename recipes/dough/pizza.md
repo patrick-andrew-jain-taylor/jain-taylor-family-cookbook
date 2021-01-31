@@ -17,7 +17,7 @@ title: Pizza Dough
 
 * I have also found an equal mix of bread and all-purpose flour to work, but it makes a chewier crust.
 * To get your water to 110F, heat room temp water in the microwave for about 40 seconds, or cold water for 60 seconds.
-    - This is critical to the fermintation process, do not eyeball it!
+    - This is critical to the fermentation process, do not eyeball it!
     - If you don't have an infrared thermometer handy, you can use a meat thermometer.
 
 ## Instructions
