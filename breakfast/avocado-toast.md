@@ -1,4 +1,4 @@
-# Seasoning - Avocado Toast
+# Avocado Toast
 
 ## Ingredients
 
