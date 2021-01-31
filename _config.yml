@@ -47,7 +47,7 @@ footer_links:
     icon: fab fa-twitter-square
   - title: LinkedIn
     url: https://linkedin.com/in/pjaintaylor
-    icon: fab fa-linkedin-in
+    icon: fab fa-linkedin
   - title: GitHub
     url: https://github.com/patrick-andrew-jain-taylor
     icon: fab fa-github-square
