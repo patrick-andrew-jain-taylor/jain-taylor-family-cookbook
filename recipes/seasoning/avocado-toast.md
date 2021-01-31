@@ -1,4 +1,6 @@
 ---
+layout: post
+author: pjt
 title: Avocado Toast Seasoning
 ---
 

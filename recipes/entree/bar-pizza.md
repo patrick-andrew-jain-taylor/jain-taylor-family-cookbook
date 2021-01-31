@@ -1,4 +1,6 @@
 ---
+layout: post
+author: pjt
 title: South Shore Bar Pizza
 ---
 
