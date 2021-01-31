@@ -14,7 +14,6 @@ share-links-active:
   linkedin: true
 rss-description: Cookbook for Jain-Taylor Recipes
 keywords: "my,list,of,keywords"
-description: [Inspired by [Version control your recipes](https://medium.com/@natalie_w/version-control-your-recipes-fa21fdefacb0) by Natalie Wong [(Repository)](https://github.com/kryptonat/love-at-first-byte)]
 plugins:
   - jekyll-relative-links
   - jekyll-paginate
