@@ -20,6 +20,7 @@ plugins:
   - jekyll-readme-index
   - jekyll-titles-from-headings
   - jekyll-relative-links
+  - jekyll-sitemap
 paginate: 5
 relative_links:
   enabled: true
