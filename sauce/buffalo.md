@@ -1,1 +1,1 @@
-# Buffalo Sauce
+# Sauce - Buffalo
