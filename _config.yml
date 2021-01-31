@@ -27,31 +27,31 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-author:
-  name: Patrick Jain-Taylor
-  picture: "/assets/img/pjt.jpg"
-  email: "patrick.andrew.taylor@gmail.com"
-  twitter: PJainTaylor
-  links:
-    - title: Twitter
-      url: https://twitter.com/pjaintaylor
-      icon: fab fa-twitter-square
-    - title: LinkedIn
-      url: https://linkedin.com/in/pjaintaylor
-      icon: fab fa-linkedin-square
-    - title: GitHub
-      url: https://github.com/patrick-andrew-jain-taylor
-      icon: fab fa-github-square
-footer_links:
-  - title: Twitter
-    url: https://twitter.com/pjaintaylor
-    icon: fab fa-twitter-square
-  - title: LinkedIn
-    url: https://linkedin.com/in/pjaintaylor
-    icon: fab fa-linkedin-square
-  - title: GitHub
-    url: https://github.com/patrick-andrew-jain-taylor
-    icon: fab fa-github-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+#author:
+#  name: Patrick Jain-Taylor
+#  picture: "/assets/img/pjt.jpg"
+#  email: "patrick.andrew.taylor@gmail.com"
+#  twitter: PJainTaylor
+#  links:
+#    - title: Twitter
+#      url: https://twitter.com/pjaintaylor
+#      icon: fab fa-twitter-square
+#    - title: LinkedIn
+#      url: https://linkedin.com/in/pjaintaylor
+#      icon: fab fa-linkedin-square
+#    - title: GitHub
+#      url: https://github.com/patrick-andrew-jain-taylor
+#      icon: fab fa-github-square
+#footer_links:
+#  - title: Twitter
+#    url: https://twitter.com/pjaintaylor
+#    icon: fab fa-twitter-square
+#  - title: LinkedIn
+#    url: https://linkedin.com/in/pjaintaylor
+#    icon: fab fa-linkedin-square
+#  - title: GitHub
+#    url: https://github.com/patrick-andrew-jain-taylor
+#    icon: fab fa-github-square
+#  - title: Feed
+#    url: atom.xml
+#    icon: fas fa-rss-square
