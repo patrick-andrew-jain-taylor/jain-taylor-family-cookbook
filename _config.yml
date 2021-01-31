@@ -14,7 +14,7 @@ share-links-active:
   twitter: true
   linkedin: true
 rss-description: Cookbook for Jain-Taylor Recipes
-keywords: "my,list,of,keywords"
+keywords: "recipes,jain-taylor,cookbook"
 plugins:
   - jekyll-paginate
   - jekyll-readme-index
