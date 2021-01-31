@@ -1,8 +1,7 @@
 pjt:
   name: Patrick Jain-Taylor
-  email: patrick.andrew.taylor@gmail.com
-  bio: Luckiest Husband in the World. Professional Cloud Architect & Evangelist. Personal Tinkerer & Video Gamer. How can I help?
-  image: "/assets/img/pjt.jpeg"
+  picture: "/assets/img/pjt.jpeg"
+  twitter: pjaintaylor
   links:
     - title: Twitter
       url: https://twitter.com/pjaintaylor
