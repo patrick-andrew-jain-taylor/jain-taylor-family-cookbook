@@ -18,5 +18,5 @@ title: Avocado Toast
 
 1. Cut avocado into fourths and scoop into a bowl.
 2. Add lime juice to avocado to soften, and mash with a fork until smooth.
-3. Add remaining spices to taste.
+3. Add remaining [spices](#spice-mixseasoningavocado-toastmd) to taste.
 4. (Optional) Top with cheese.
