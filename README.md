@@ -29,6 +29,7 @@ title: Recipes
 
 * [Avocado Toast Seasoning](recipes/seasoning/avocado-toast.md)
 * [French Fry](recipes/seasoning/french-fry.md)
+* [Italian](recipes/seasoning/italian.md)
 * [Taco](recipes/seasoning/taco.md)
 
 # Credits
