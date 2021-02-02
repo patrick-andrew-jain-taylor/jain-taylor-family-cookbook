@@ -35,11 +35,9 @@ title: Impossible Bolognese Sauce
 6. Cover oven/pot with a lid, and let the sauce simmer until slightly thickened, around 20 minutes. Check & stir every 5 minutes to ensure incorporation of tomatoes & juices.
 7. Let the sauce sit until ready to eat. Best served warm.
 
-## Footnotes
-
-[^1]: Wine should be acidic, not sweet. Pinot Grigio is recommended, but I've also used Chardonnay in a pinch.
-[^2]: Tomatoes can be broken up ahead of time, especially if you don't want juice splattering everywhere...
-
 ## Credits
 
 * [Original Kitchn Recipe](https://www.thekitchn.com/beyond-beef-bolognese-22988270)
+
+[^1]: Wine should be acidic, not sweet. Pinot Grigio is recommended, but I've also used Chardonnay in a pinch.
+[^2]: Tomatoes can be broken up ahead of time, especially if you don't want juice splattering everywhere...
