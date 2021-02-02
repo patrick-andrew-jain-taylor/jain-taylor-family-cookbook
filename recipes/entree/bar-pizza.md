@@ -13,7 +13,7 @@ title: South Shore Bar Pizza
 ## Miscellaneous
 * Olive Oil
 * Pizza Stone(s)
-* (Optional) 10" Baking Pans
+* (Optional) 10" Baking Pan(s)
 
 ## Instructions
 
