@@ -16,7 +16,7 @@ title: South Shore Bar Pizza
 
 [Cheese Recipe](../cheese/pizza.md)
 
-## Miscellaneous Ingredients
+## Miscellaneous
 * Olive Oil
 * Pizza Stone(s)
 * (Optional) 10" Baking Pans
