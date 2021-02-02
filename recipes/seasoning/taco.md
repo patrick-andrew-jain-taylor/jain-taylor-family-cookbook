@@ -16,4 +16,4 @@ title: Taco Seasoning
 |          Sea Salt         |  3 Parts |
 |        Black Pepper       |  3 Parts |
 
-[Source: AlAl Recipes](https://www.allrecipes.com/recipe/46653/taco-seasoning-i/)
+[Source: All Recipes](https://www.allrecipes.com/recipe/46653/taco-seasoning-i/)
