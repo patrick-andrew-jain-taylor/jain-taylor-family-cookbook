@@ -29,7 +29,7 @@ title: South Shore Bar Pizza
     - If pre-prepped and frozen, let it thaw in the fridge for 4 hours, or submerge in a cold bath for 90 minutes. Bring to room temperature if possible.
 7. Add a little more than 1/3 cup of sauce on the pizza, and spread with ladle in a circular motion.
     - You want sauce around the edge of the pizza to achieve burnt edges.
-8. Add handfuls of cheese blend over sauce.
+8. Add handfuls of [cheese blend](#cheese-recipecheesepizzamd) on top of the sauce.
     - To ensure uniformity, tap the edges while rotating the pans.
 9. Add desired toppings.
     - Onions are EXTREMELY recommended, they pair perfectly with the sauce/cheese combo.
