@@ -6,6 +6,8 @@ logo: "/assets/img/cookbook.jpg"
 date_format: "%B %-d, %Y"
 round-avatar: true
 search_full_content: true
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 plugins:
   - jekyll-paginate
   - jekyll-readme-index
