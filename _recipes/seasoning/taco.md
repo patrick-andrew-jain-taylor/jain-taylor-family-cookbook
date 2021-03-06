@@ -1,6 +1,6 @@
 ---
 author: pjt
-title: "Taco Seasoning"
+title: Taco Seasoning
 image:
   path: /assets/img/taco-seasoning.jpg
   thumbnail: /assets/img/taco-seasoning-400x300.jpeg
