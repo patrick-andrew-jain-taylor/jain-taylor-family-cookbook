@@ -16,9 +16,9 @@ paginate: 10
 paginate_path: "/page:num/"
 # Search
 search_full_content: true
-  # Taxonomy
-  category_archive_path: "/categories/#"
-  tag_archive_path: "/tags/#"
+# Taxonomy
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 plugins:
   - jekyll-paginate
   - jekyll-readme-index
