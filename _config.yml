@@ -2,12 +2,23 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: "en-us"
 title: "The Jain-Taylor Family Cookbook"
 description: "Generations of Recipes, From GG to You and Me"
+url: "https://recipes.jaintaylor.family"
 logo: "/assets/img/cookbook.jpg"
 date_format: "%B %-d, %Y"
 round-avatar: true
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+# Search
 search_full_content: true
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+  # Taxonomy
+  category_archive_path: "/categories/#"
+  tag_archive_path: "/tags/#"
 plugins:
   - jekyll-paginate
   - jekyll-readme-index
@@ -16,8 +27,30 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-paginate: 10
-paginate_path: "/page:num/"
+# Collections
+collections:
+  authors:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      comments: true
+      share: true
 relative_links:
   enabled: true
   collections: true
@@ -44,5 +77,3 @@ footer_links:
   - title: GitHub
     url: https://github.com/patrick-andrew-jain-taylor
     icon: fab fa-github-square
-collections:
-  authors:

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: dmt
 title: Mushroom Spread
 ---

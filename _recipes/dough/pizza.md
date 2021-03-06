@@ -1,5 +1,4 @@
 ---
-layout: post
 author: pjt
 title: Pizza Dough
 ---
