@@ -8,7 +8,6 @@ date_format: "%B %-d, %Y"
 round-avatar: true
 # Build settings
 permalink: /:categories/:title/
-markdown: kramdown
 feed:
   path: atom.xml
 # Pagination
