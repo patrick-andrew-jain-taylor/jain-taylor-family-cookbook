@@ -2,6 +2,10 @@
 title: Recipes
 ---
 
+## Appetizers
+
+* [Spinach & Artichoke Dip](recipes/appetizers/spinach-artichoke-dip.md)
+
 ## Breakfast
 
 * [Avocado Toast](recipes/breakfast/avocado-toast.md)
