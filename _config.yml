@@ -10,7 +10,6 @@ category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 plugins:
   - jekyll-paginate
-  - jekyll-readme-index
   - jekyll-titles-from-headings
   - jekyll-relative-links
   - jekyll-sitemap
@@ -21,10 +20,6 @@ paginate_path: "/page:num/"
 relative_links:
   enabled: true
   collections: true
-readme_index:
-  enabled: true
-  remove_originals: false
-  with_frontmatter: true
 include:
   - CONTRIBUTING.md
   - README.md
