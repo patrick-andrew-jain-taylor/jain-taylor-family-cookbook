@@ -13,7 +13,7 @@ title: Mushroom Spread
 |   Lemon Juice   |        1 Teaspoon       |
 |      Butter     |         1 Stick         |
 |   Green Pepper  |    1 Medium, Chopped    |
-|      Onion      |     1 Medum, Chopped    |
+|      Onion      |     1 Medium, Chopped    |
 |      Garlic     |     3 Cloves, Minced    |
 |     Tabasco     |      35 Dashes[^1]      |
 |   Bread Crumbs  |       1 Cup, Dried      |
