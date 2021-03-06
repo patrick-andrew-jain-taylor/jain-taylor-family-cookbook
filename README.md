@@ -6,6 +6,7 @@ title: Recipes
 
 * [Spinach & Artichoke Dip](recipes/appetizers/spinach-artichoke-dip.md)
 * [Mushroom Spread](recipes/appetizers/mushroom-spread.md)
+* [Clam Spread](recipes/appetizers/clam-spread.md)
 
 ## Breakfast
 
