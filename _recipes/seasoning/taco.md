@@ -7,6 +7,8 @@ image:
   caption: "['Nope, it's taco seasoning.'](https://www.flickr.com/photos/48987853@N00/6874939606) by [makahansen](https://www.flickr.com/photos/48987853@N00) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich)"
 ---
 
+A go-to for anything Mexican.
+
 |           Spice           | Quantity |
 |:-------------------------:|:--------:|
 |        Chili Powder       | 12 Parts |
