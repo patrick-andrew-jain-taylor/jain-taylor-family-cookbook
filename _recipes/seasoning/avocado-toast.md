@@ -1,7 +1,13 @@
 ---
 author: pjt
 title: Avocado Toast Seasoning
+image:
+  path: /assets/img/avocado-toast-seasoning.jpg
+  thumbnail: /assets/img/avocado-toast-seasoning-400x266.jpg
+  caption: "['24/7.2014 - avocado toast with lemon-cumin seasoning'](https://www.flickr.com/photos/24209378@N03/14600332759) by [julochka](https://www.flickr.com/photos/24209378@N03) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich)"
 ---
+
+For the millenial in all of us!
 
 |           Spice           | Quantity |
 |:-------------------------:|:--------:|
