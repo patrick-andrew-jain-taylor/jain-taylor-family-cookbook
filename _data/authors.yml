@@ -12,3 +12,6 @@ pjt:
     - title: GitHub
       url: https://github.com/patrick-andrew-jain-taylor
       icon: fab fa-github-square
+dmt:
+  name: Denise Taylor
+  picture: "/assets/img/dmt.jpeg"
