@@ -5,6 +5,7 @@ description: "Generations of Recipes, From GG to You and Me"
 logo: "/assets/img/cookbook.jpg"
 date_format: "%B %-d, %Y"
 round-avatar: true
+search_full_content: true
 plugins:
   - jekyll-paginate
   - jekyll-readme-index
