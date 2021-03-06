@@ -1,7 +1,13 @@
 ---
 author: pjt
 title: Impossible Bolognese Sauce
+image:
+  path: /assets/img/impossible-bolognese.jpg
+  thumbnail: /assets/img/impossible-bolognese-400x267.jpg
+  caption: "['Bolognese'](https://www.flickr.com/photos/26242865@N04/5349246507) by [Katrin Gilger](https://www.flickr.com/photos/26242865@N04) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)"
 ---
+
+A vegetarian twist on an Italian staple!
 
 ## Ingredients
 

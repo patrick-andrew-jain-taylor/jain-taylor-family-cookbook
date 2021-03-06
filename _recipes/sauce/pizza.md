@@ -25,6 +25,6 @@ The most important ingredient in a good pizza - the sauce!
 
 ## Instructions
 
-1. Put all ingredients in blender or food processor, and blend until just broken down and integrated. This should take no more than 20 seconds.
+1. Put all ingredients in blender or food processor, and blend until just broken down and integrated. This should take no more than 20 seconds.[^1]
 
-* A 10" pizza will use a little more than 1/3 cup of sauce, and this recipe wil make about 10 pizzas, depending on how much sauce you like.
+[^1]: A 10" pizza will use a little more than 1/3 cup of sauce, and this recipe wil make about 10 pizzas, depending on how much sauce you like.
