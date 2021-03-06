@@ -1,5 +1,7 @@
 ---
 title: Recipes
+layout: home
+paginate: true
 ---
 
 ## Appetizers
