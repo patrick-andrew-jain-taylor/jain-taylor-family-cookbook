@@ -22,14 +22,12 @@ tag_archive_path: "/tags/#"
 plugins:
   - jekyll-paginate
   - jekyll-readme-index
-  - jekyll-titles-from-headings
   - jekyll-relative-links
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
 # Collections
 collections:
-  authors:
   recipes:
     output: true
     permalink: /:collection/:path/
