@@ -7,6 +7,8 @@ image:
   caption: "['mushroom spread'](https://www.flickr.com/photos/21114513@N08/3867962030) by [mollyjade](https://www.flickr.com/photos/21114513@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)"
 ---
 
+A vegetarian alternative to [Clam Spread](./clam-spread.md)
+
 ## Ingredients
 
 | Ingredient | Quantity |
@@ -18,7 +20,7 @@ image:
 | Green Pepper | 1 Medium, Chopped |
 | Onion | 1 Medium, Chopped |
 | Garlic | 3 Cloves, Minced |
-| Tabasco | 35 Dashes [^1] |
+| Tabasco | 35 Dashes[^1] |
 | Bread Crumbs | 1 Cup, Dried |
 | American Cheese | Slices to Cover the Top |
 

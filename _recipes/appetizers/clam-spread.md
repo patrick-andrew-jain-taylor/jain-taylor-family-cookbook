@@ -1,20 +1,24 @@
 ---
 author: rkb
-title: Mushroom Spread
+title: Clam Spread
+image:
+  path: /assets/img/clam-spread.jpg
+  thumbnail: /assets/img/clam-spread-400x277.jpg
+  caption: "['Vegetable and Feta Sandwich Spread/Dip'](https://www.flickr.com/photos/38895964@N00/6832663350) by [saaleha](https://www.flickr.com/photos/38895964@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)"
 ---
 
 ## Ingredients
 
-|    Ingredient   |         Quantity        |
-|:---------------:|:-----------------------:|
-|      Clams      |     2 Cans, Chopped     |
-|   Lemon Juice   |        1 Teaspoon       |
-|      Butter     |         1 Stick         |
-|   Green Pepper  |    1 Medium, Chopped    |
-|      Onion      |    1 Medium, Chopped    |
-|      Garlic     |     3 Cloves, Minced    |
-|     Tabasco     |      35 Dashes[^1]      |
-|   Bread Crumbs  |       1 Cup, Dried      |
+| Ingredient | Quantity |
+|:-:|:-:|
+| Clams | 2 Cans, Chopped |
+| Lemon Juice | 1 Teaspoon |
+| Butter | 1 Stick |
+| Green Pepper | 1 Medium, Chopped |
+| Onion | 1 Medium, Chopped |
+| Garlic | 3 Cloves, Minced |
+| Tabasco | 35 Dashes[^1] |
+| Bread Crumbs | 1 Cup, Dried |
 | American Cheese | Slices to Cover the Top |
 
 ## Instructions
