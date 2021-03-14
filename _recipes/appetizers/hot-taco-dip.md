@@ -26,7 +26,7 @@ A staple at every Morin holiday party.
 2. Add taco seasoning, according to package.
 3. Spread cream cheese in 13x9 baking dish.
 4. Add a thin layer of salsa.
-5. Add jalapenos to salsa layer.
+5. Add jalapeños to salsa layer.
 6. Add layer of taco/burger mixture.
 7. Top with cheddar cheese.
 8. Bake at 350&deg;F (175&deg;C) for about 15 minutes.
