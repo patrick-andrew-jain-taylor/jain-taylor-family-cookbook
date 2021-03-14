@@ -1,7 +1,13 @@
 ---
 author: pjt
 title: South Shore Bar Pizza
+image:
+  path: /assets/img/bar-pizza.jpg
+  thumbnail: /assets/img/bar-pizza-400x400.jpg
+  caption: "Delicious!"
 ---
+
+An Eastern Massachusetts Classic!
 
 ## Ingredients
 * [Pizza Dough](../dough/pizza.md)
