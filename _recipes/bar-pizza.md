@@ -5,14 +5,16 @@ image:
   path: /assets/img/bar-pizza.jpg
   thumbnail: /assets/img/bar-pizza-400x400.jpg
   caption: "Delicious!"
+categories: [Entree]
+tags: [Veg, Meat]
 ---
 
 An Eastern Massachusetts Classic!
 
 ## Ingredients
-* [Pizza Dough](../dough/pizza.md)
-* [Pizza Sauce](../sauce/pizza.md)
-* [Pizza Cheese Blend](../cheese/pizza.md)
+* [Pizza Dough](pizza-dough.md)
+* [Pizza Sauce](pizza-sauce.md)
+* [Pizza Cheese Blend](pizza-cheese.md)
 * Olive Oil
 * Pizza Stone(s)
 * (Optional) 10" Baking Pan(s)[^1]

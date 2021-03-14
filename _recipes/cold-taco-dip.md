@@ -5,6 +5,8 @@ image:
   path: /assets/img/cold-taco-dip.jpg
   thumbnail: /assets/img/cold-taco-dip-400x266.jpg
   caption: "['Sandys Taco Dip (6)'](https://www.flickr.com/photos/51035644485@N01/12176265245) by [RobynAnderson](https://www.flickr.com/photos/51035644485@N01) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich)"
+categories: [Appetizers]
+tags: [Meat, Cold]
 ---
 
 A Delmonte favorite!

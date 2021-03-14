@@ -5,6 +5,8 @@ image:
   path: /assets/img/buffalo.jpg
   thumbnail: /assets/img/buffalo-400x267.jpg
   caption: "['Recipe for a Delicious Friday Night'](https://www.flickr.com/photos/78011127@N00/4259867910) by [ginnerobot](https://www.flickr.com/photos/78011127@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)"
+categories: [Sauce]
+tags: [Veg]
 ---
 
 The third member of the J-T household.

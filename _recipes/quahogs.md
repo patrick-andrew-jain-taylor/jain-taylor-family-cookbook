@@ -5,6 +5,8 @@ image:
   path: /assets/img/quahog.jpg
   thumbnail: /assets/img/quahog-400x300.jpg
   caption: "['Stuffed Quahogs & New Potatoes'](https://www.flickr.com/photos/61278305@N00/9730639407) by [jimmywayne](https://www.flickr.com/photos/61278305@N00) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich)"
+categories: [Appetizers]
+tags: [Meat, Hot]
 ---
 
 A go-to during the summertime, paired with a bottle of Tabasco.

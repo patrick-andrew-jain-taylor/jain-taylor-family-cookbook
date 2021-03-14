@@ -5,6 +5,8 @@ image:
   path: /assets/img/curry-powder.jpg
   thumbnail: /assets/img/curry-powder-400x266.jpg
   caption: "['curry powder'](https://www.flickr.com/photos/29285241@N03/4352339823) by [sweetbeetandgreenbean](https://www.flickr.com/photos/29285241@N03) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich)"
+categories: [Seasoning]
+tags: [Coriander, Cumin, Fennel, Fenugreek, Peppercorns, Mustard Seeds, Chili Peppers, Tumeric, Ginger, Garlic, Table Salt, Cinnamon]
 ---
 
 A quick pinch of Desi flavor.
