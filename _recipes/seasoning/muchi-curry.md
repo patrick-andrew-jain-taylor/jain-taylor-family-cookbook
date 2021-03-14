@@ -9,7 +9,7 @@ image:
 
 A quick pinch of Desi flavor.
 
-## Spices[^1]
+## Spices[^1][^2]
 
 | Spice | Quantity |
 |:-:|:-:|
@@ -27,14 +27,13 @@ A quick pinch of Desi flavor.
 | Salt | 1/2 Tsp |
 | Ground Cinnamon | 1/4 Tsp |
 
-Makes 1/2 cup of powder.
-
 ## Instructions
 
-1. Heat skillet over medium heat, and roast the whole spices and curry leaves for a few minutes until very fragrant.[^2] Cool completely.
+1. Heat skillet over medium heat, and roast the whole spices and curry leaves for a few minutes until very fragrant.[^3] Cool completely.
 2. Place the whole spices in a spice/coffee grinder along with the remaining ingredients. Grind until you get a fine powder.
-3. Store the curry powder in an airtight jar in a dark, cool place.[^3]
+3. Store the curry powder in an airtight jar in a dark, cool place.[^4]
 
 [^1]: [Source: The Daring Gourmet](https://www.daringgourmet.com/curry-powder-recipe/)
-[^2]: Be careful not to scorch the spices, or they will be bitter.
-[^3]: Will keep for several months, but for best flavor use within a few weeks.
+[^2]: Makes 1/2 cup of powder.
+[^3]: Be careful not to scorch the spices, or they will be bitter.
+[^4]: Will keep for several months, but for best flavor use within a few weeks.
