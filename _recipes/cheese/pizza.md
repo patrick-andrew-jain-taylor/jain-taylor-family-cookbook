@@ -11,9 +11,9 @@ A quick mix for a delicious pizza fix.
 
 ## Ingredients[^1]
 
-|     Cheese    | Quantity |
-|:-------------:|:--------:|
-| Sharp Cheddar |  1 Part  |
-|   Mozzarella  |  1 Part  |
+| Cheese | Quantity |
+|:-:|:-:|
+| Sharp Cheddar | 1 Part |
+| Mozzarella | 1 Part |
 
 [^1]: So far, have found 2 ounces (or a large handful) of each (totalling 4oz) per pizza works best.
