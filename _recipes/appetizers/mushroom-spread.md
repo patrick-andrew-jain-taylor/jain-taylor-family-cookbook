@@ -7,7 +7,7 @@ image:
   caption: "['mushroom spread'](https://www.flickr.com/photos/21114513@N08/3867962030) by [mollyjade](https://www.flickr.com/photos/21114513@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)"
 ---
 
-A vegetarian alternative to [Clam Spread](./clam-spread.md)
+A vegetarian alternative to [Clam Spread](../clam-spread.md)
 
 ## Ingredients
 
