@@ -7,9 +7,9 @@ image:
   caption: "['cauliflower crust pizza sauce'](https://www.flickr.com/photos/130283013@N07/16430616733) by [hallosunnymama](https://www.flickr.com/photos/130283013@N07) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)"
 ---
 
-The most important ingredient in a good pizza - the sauce![^1]
+The most important ingredient in a good pizza - the sauce!
 
-## Ingredients
+## Ingredients[^1]
 
 | Ingredient | Quantity |
 |:-:|:-:|

@@ -9,6 +9,8 @@ image:
 
 Try it in pasta sauces and stuffings!
 
+## Spices
+
 | Spice | Quantity |
 |:-:|:-:|
 | Dried Basil | 2 Parts |

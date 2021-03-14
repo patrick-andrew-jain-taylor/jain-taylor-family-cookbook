@@ -7,11 +7,11 @@ image:
   caption: "['curry powder'](https://www.flickr.com/photos/29285241@N03/4352339823) by [sweetbeetandgreenbean](https://www.flickr.com/photos/29285241@N03) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich)"
 ---
 
-A quick pinch of Desi flavor. [^1]
+A quick pinch of Desi flavor.
 
-## Ingredients
+## Spices[^1]
 
-| Ingredient | Quantity |
+| Spice | Quantity |
 |:-:|:-:|
 | Coriander Seeds | 1/4 Cup |
 | Cumin Seeds | 4 Tsp |

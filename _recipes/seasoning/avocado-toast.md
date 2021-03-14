@@ -9,6 +9,8 @@ image:
 
 For the Millenial in all of us!
 
+## Spices
+
 | Spice | Quantity |
 |:-:|:-:|
 | Garlic Powder | 5 Parts |

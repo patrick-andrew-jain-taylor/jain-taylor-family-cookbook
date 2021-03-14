@@ -9,6 +9,8 @@ image:
 
 Pairs perfectly with a bottle of ketchup.
 
+## Spices
+
 | Spice | Quantity |
 |:-:|:-:|
 | Onion Powder | 8 Parts |
