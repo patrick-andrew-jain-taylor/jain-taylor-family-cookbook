@@ -25,5 +25,5 @@ The third member of the J-T household.
 
 1. Add all ingredients but butter to a pot and bring to a simmer on medium heat.
 2. Once simmering, turn to low.
-3. Add unsalted butter, 2 tablespoons at a time, while continously whisking.
+3. Add unsalted butter, 2 tablespoons at a time, while continuously whisking.
 4. Turn off heat, and let cool.
