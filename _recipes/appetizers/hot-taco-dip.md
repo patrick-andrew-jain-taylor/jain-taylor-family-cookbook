@@ -2,8 +2,8 @@
 author: amm
 title: Hot Taco Dip
 image:
-  path: /assets/img/taco-dip.jpg
-  thumbnail: /assets/img/taco-dip-400x266.jpg
+  path: /assets/img/hot-taco-dip.jpg
+  thumbnail: /assets/img/hot-taco-dip-400x266.jpg
   caption: "['Sandys Taco Dip (7)'](https://www.flickr.com/photos/51035644485@N01/12176675294) by [RobynAnderson](https://www.flickr.com/photos/51035644485@N01) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich)"
 ---
 
