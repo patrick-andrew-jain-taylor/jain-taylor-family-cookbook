@@ -28,7 +28,7 @@ A vegetarian alternative to [Clam Spread](./clam-spread.md)
 1. Simmer mushroom stock and lemon juice in small pan for 5-10 minutes.
 2. In medium frying pan, melt butter and sauté remaining ingredients except bread crumbs and cheese for 5-10 minutes or until vegetables are tender.
 3. Remove both pans from heat and combine with mushroom stock, lemon juice with vegetables and bread crumbs.
-4. Place mixture in small baking dish, top with cheese, and bake at 350 degrees or microwave until dip is hot and cheese is melted.
+4. Place mixture in small baking dish, top with cheese, and bake at 350&deg;F (175&deg;C) or microwave until dip is hot and cheese is melted.
 5. Serve hot with crackers.
 
 [^1]: Not 34, Not 36 -- 35!

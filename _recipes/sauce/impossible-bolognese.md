@@ -13,11 +13,11 @@ A vegetarian twist on an Italian staple!
 
 | Ingredients | Quantity |
 |:-:|:-:|
-| Impossible Meat | 1 12-oz Package |
+| Impossible Meat | 12 oz (340 g) Package |
 | Yellow Onion | 2 Small / 1 Medium |
 | Carrots | 2 Large |
 | Garlic | 4 Cloves / 2 Tsp Jarred |
-| Whole Peeled Tomatoes | 1 28-oz Can |
+| Whole Peeled Tomatoes | 28 oz (794 g) Can |
 | White Wine (Dry)[^1] | 1/2 Cup |
 | Olive Oil | 2 Tbsp |
 | Kosher Salt | 1 Tsp |

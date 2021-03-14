@@ -29,5 +29,5 @@ A staple at every Morin holiday party.
 5. Add jalapenos to salsa layer.
 6. Add layer of taco/burger mixture.
 7. Top with cheddar cheese.
-8. Bake at 350 degrees F (175 degrees C) for about 15 minutes.
+8. Bake at 350&deg;F (175&deg;C) for about 15 minutes.
 9. Serve with tortilla chips.

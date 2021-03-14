@@ -13,7 +13,7 @@ The third member of the J-T household.
 
 | Ingredient | Quantity |
 |:-:|:-:|
-| Frank's Red Hot | 1 12 fl oz bottle |
+| Frank's Red Hot | 12 fl oz (0.35 l) bottle |
 | Unsalted Butter | 2 Sticks, Cut into 1 Tbsp Pieces (16) |
 | White Vinegar | 3 Tablespoons |
 | Worcestershire Sauce | 1/2 Teaspoon |
