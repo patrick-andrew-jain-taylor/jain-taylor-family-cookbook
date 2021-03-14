@@ -1,5 +1,5 @@
 pjt:
-  name: Patrick Jain-Taylor
+  name: Patrick Jain-Taylor (née Taylor)
   picture: "/assets/img/pjt.jpeg"
   twitter: pjaintaylor
   links:
@@ -13,8 +13,11 @@ pjt:
       url: https://github.com/patrick-andrew-jain-taylor
       icon: fab fa-github-square
 dmt:
-  name: Denise Taylor
+  name: Denise Taylor (née Zimmerman)
   picture: "/assets/img/dmt.jpg"
 rkb:
-  name: (Rachel) Kate Brown
+  name: (Rachel) Kate Brown (née Taylor)
+  picture: "/assets/img/rkb.jpg"
+amm:
+  name: Ann-Marie Morin (née Zimmerman)
   picture: "/assets/img/rkb.jpg"
