@@ -29,7 +29,7 @@ plugins:
 collections:
   recipes:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:categories/:title/
 # Front Matter Defaults
 defaults:
   # Post defaults
