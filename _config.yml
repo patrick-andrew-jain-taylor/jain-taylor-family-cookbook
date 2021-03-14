@@ -64,6 +64,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - _pages
 footer_links:
   - title: Twitter
     url: https://twitter.com/pjaintaylor
