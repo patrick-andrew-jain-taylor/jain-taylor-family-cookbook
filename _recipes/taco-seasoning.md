@@ -5,7 +5,7 @@ image:
   path: /assets/img/taco-seasoning.jpg
   thumbnail: /assets/img/taco-seasoning-400x300.jpeg
   caption: "['Nope, it's taco seasoning.'](https://www.flickr.com/photos/48987853@N00/6874939606) by [makahansen](https://www.flickr.com/photos/48987853@N00) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich)"
-categories: [Seasoning]
+categories: [Seasonings]
 tags: [Chili, Garlic, Onion, Red Pepper, Oregano, Cumin, Sea Salt, Black Pepper]
 ---
 

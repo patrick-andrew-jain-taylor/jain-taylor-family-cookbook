@@ -5,7 +5,7 @@ image:
   path: /assets/img/bar-pizza.jpg
   thumbnail: /assets/img/bar-pizza-400x400.jpg
   caption: "Delicious!"
-categories: [Entree]
+categories: [Entrees]
 tags: [Veg, Meat]
 ---
 

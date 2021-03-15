@@ -5,7 +5,7 @@ image:
   path: /assets/img/pizza-sauce.jpg
   thumbnail: /assets/img/pizza-sauce-400x267.jpg
   caption: "['cauliflower crust pizza sauce'](https://www.flickr.com/photos/130283013@N07/16430616733) by [hallosunnymama](https://www.flickr.com/photos/130283013@N07) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)"
-categories: [Sauce]
+categories: [Miscellaneous]
 tags: [Veg]
 ---
 

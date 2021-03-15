@@ -5,7 +5,7 @@ image:
   path: /assets/img/risotto.jpg
   thumbnail: /assets/img/risotto-400x299.jpg
   caption: "['Risotto!'](https://www.flickr.com/photos/72404129@N06/8296126847) by [davidbcrowley1991](https://www.flickr.com/photos/72404129@N06) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich)"
-categories: [Entree]
+categories: [Entrees]
 tags: [Veg]
 ---
 

@@ -6,7 +6,7 @@ image:
   thumbnail: /assets/img/clam-spread-400x277.jpg
   caption: "['Vegetable and Feta Sandwich Spread/Dip'](https://www.flickr.com/photos/38895964@N00/6832663350) by [saaleha](https://www.flickr.com/photos/38895964@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)"
 categories: [Appetizers]
-tags: [Meat, Hot]
+tags: [Meat]
 ---
 
 A Taylor Thanksgiving staple!

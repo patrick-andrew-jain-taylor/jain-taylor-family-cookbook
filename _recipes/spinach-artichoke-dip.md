@@ -6,7 +6,7 @@ image:
   thumbnail: /assets/img/spinach-artichoke-dip-400x266.jpg
   caption: "['Spinach Artichoke Dip'](https://www.flickr.com/photos/7390466@N06/5593025784) by [Mike Saechang](https://www.flickr.com/photos/7390466@N06) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)"
 categories: [Appetizers]
-tags: [Veg, Hot]
+tags: [Veg]
 ---
 
 A great vegetarian gameday option.
