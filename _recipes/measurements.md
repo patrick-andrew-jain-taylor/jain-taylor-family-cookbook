@@ -45,7 +45,7 @@ A handy guide for quick conversions!
 | 1/3 Cup | 2 2/3 fl oz | 5 1/3 Tbsp | 16 Tsp | 79 ml |
 | 1/4 Cup | 2 fl oz | 4 Tbsp | 12 Tsp | 59 ml |
 | 1/8 Cup | 1 fl oz | 2 Tbsp | 6 Tsp | 30 ml |
-| 1/16 Cup | 0.5 fl oz | 1 Tbsp | 3 Tsp | 15 ml |
+| 1/16 Cup | 1/2 fl oz | 1 Tbsp | 3 Tsp | 15 ml |
 
 ## Meat Temperature Chart
 
