@@ -16,18 +16,18 @@ A quick pinch of Desi flavor.
 | Spice | Quantity |
 |:-:|:-:|
 | Coriander Seeds | 1/4 Cup |
-| Cumin Seeds | 4 Tsp |
-| Fennel Seeds | 1 Tbsp |
-| Fenugreek Seeds | 1 Tsp |
-| Black Peppercorns | 1 Tsp |
-| Yellow Mustard Seeds | 1 Tsp |
+| Cumin Seeds | 4 Teaspoon |
+| Fennel Seeds | 1 Tablespoon |
+| Fenugreek Seeds | 1 Teaspoon |
+| Black Peppercorns | 1 Teaspoon |
+| Yellow Mustard Seeds | 1 Teaspoon |
 | Dried Red Chili Peppers | 4 Small |
 | Dried Curry Leaves | 4 Leaves |
-| Ground Turmeric | 2 Tbsp |
-| Ground Ginger | 1/2 Tsp |
-| Garlic Powder | 1/2 Tsp |
-| Salt | 1/2 Tsp |
-| Ground Cinnamon | 1/4 Tsp |
+| Ground Turmeric | 2 Tablespoons |
+| Ground Ginger | 1/2 Teaspoon |
+| Garlic Powder | 1/2 Teaspoon |
+| Salt | 1/2 Teaspoon |
+| Ground Cinnamon | 1/4 Teaspoon |
 
 ## Instructions
 

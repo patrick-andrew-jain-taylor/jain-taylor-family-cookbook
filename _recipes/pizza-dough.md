@@ -16,11 +16,11 @@ Good things come to those who wait.
 | Ingredient | Quantity |
 |:-:|:-:|
 | Bread Flour[^2] | 3 1/2 Cups |
-| Sugar | 1 Tsp |
+| Sugar | 1 Teaspoon |
 | Instant Dry Yeast | 1 Envelope |
-| Kosher Salt | 2 Tsp |
+| Kosher Salt | 2 Teaspoon |
 | Water | 1 1/2 Cups, 110F[^3] |
-| Olive Oil | 2 Tbsp & 2 Teaspoons |
+| Olive Oil | 2 Tablespoons & 2 Teaspoons |
 
 ## Instructions
 
