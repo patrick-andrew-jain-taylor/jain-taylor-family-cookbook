@@ -16,7 +16,7 @@ dmt:
   name: Denise Taylor (née Zimmerman)
   picture: "/assets/img/dmt.jpg"
 rkb:
-  name: (Rachel) Kate Brown (née Taylor)
+  name: Rachel "Kate" Brown (née Taylor)
   picture: "/assets/img/rkb.jpg"
 amm:
   name: Ann-Marie Morin (née Zimmerman)
@@ -24,3 +24,6 @@ amm:
 asd:
   name: Andrea Delmonte (née Zimmerman)
   picture: "/assets/img/asd.jpg"
+gg:
+  name: Alveda "GG" Crovello (née Braga)
+  picture: "/assets/img/gg.jpg"
