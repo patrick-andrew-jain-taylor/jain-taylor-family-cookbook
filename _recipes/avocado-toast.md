@@ -16,7 +16,7 @@ A delicious, fatty breakfast.
 | Cheese | Quantity |
 |:-:|:-:|
 | Avocado | 1 Ripe |
-| Lime Juice | 1/2 Tbsp |
+| Lime Juice | 1/2 Tablespoons |
 | [Avocado Toast Seasoning](avocado-toast-seasoning.md) | To Taste |
 | Frank's Red Hot Sauce | To Taste |
 

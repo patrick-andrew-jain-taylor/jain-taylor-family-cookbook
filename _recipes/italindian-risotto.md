@@ -19,9 +19,9 @@ East meets West in this delicious rice dish.
 | Rasam Mix | 1 Packet |
 | Rice | 1 Cup |
 | Onion | 1/2 Cup |
-| Olive Oil | 2 Tsp |
-| Butter | 2 Tbsp |
-| [Italian Seasoning](italian-seasoning.md) | 2 Tsp |
+| Olive Oil | 2 Teaspoon |
+| Butter | 2 Tablespoons |
+| [Italian Seasoning](italian-seasoning.md) | 2 Teaspoon |
 | Kosher Salt | To Taste |
 | White Pepper | To Taste |
 | Black Pepper | To Taste |

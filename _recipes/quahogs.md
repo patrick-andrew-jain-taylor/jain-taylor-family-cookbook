@@ -20,7 +20,7 @@ A go-to during the summertime, paired with a bottle of Tabasco.
 | Linguica | 1 Whole, chopped |
 | Onion | 1 White, finely chopped |
 | Red Bell Pepper | 1/2, finely chopped |
-| Garlic | 3 Tablespoon, minced |
+| Garlic | 3 Tablespoons, minced |
 | Pepperidge Farm Stuffing | 1 Package (Blue Bag) |
 | Quahog Broth | 2 - 2 1/2 Cup |
 | Egg | 1, beaten |
