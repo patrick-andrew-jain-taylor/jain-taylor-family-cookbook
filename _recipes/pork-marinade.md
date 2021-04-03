@@ -9,7 +9,7 @@ categories: [Miscellaneous]
 tags: [Meat, Vegetarian]
 ---
 
-A super savory, overnight mix.
+Also tasted great with chicken!
 
 ## Ingredients
 
