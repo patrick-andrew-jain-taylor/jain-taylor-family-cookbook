@@ -56,14 +56,9 @@ readme_index:
   remove_originals: false
   with_frontmatter: true
 include:
-  - CONTRIBUTING.md
+  - CHANGELOG.md
   - README.md
   - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
   - _pages
 footer_links:
   - title: Twitter
