@@ -9,7 +9,7 @@ categories: [Entrees]
 tags: [Meat]
 ---
 
-A crunchy, savory meal!
+A go-to for a family pasta night!
 
 ## Ingredients
 
