@@ -25,7 +25,7 @@ Good things come to those who wait.
 ## Instructions
 
 1. Combine bread flour, sugar, yeast, and kosher salt in stand mixer. 
-2. While mixer runs, add water (heated to 110F) and 2 tablespoons of olive oil, and beat until the dough forms into a ball.[^4]
+2. While mixer runs, add water (heated to 110&deg;F) and 2 tablespoons of olive oil, and beat until the dough forms into a ball.[^4]
 3. Scrape dough into a lightly floured surface and gently knead into a smooth, firm ball.
 4. Grease the mixing bowl with 2 teaspoons of olive oil.
 5. Add the dough back into the bowl, cover the bowl with plastic wrap, and place in a warm area for 60-90 minutes.[^5]
