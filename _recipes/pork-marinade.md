@@ -9,7 +9,7 @@ categories: [Miscellaneous]
 tags: [Meat, Vegetarian]
 ---
 
-Also tasted great with chicken!
+Also tastes great with chicken!
 
 ## Ingredients
 
