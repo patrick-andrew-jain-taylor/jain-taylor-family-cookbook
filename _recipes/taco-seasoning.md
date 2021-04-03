@@ -25,4 +25,17 @@ A go-to for anything Mexican.
 | Sea Salt | 3 Parts |
 | Black Pepper | 3 Parts |
 
+## Low Sodium Version
+
+| Spice | Quantity |
+|:-:|:-:|
+| Cumin | 18 Parts |
+| Chili Powder | 18 Parts |
+| Garlic Powder | 1 Part |
+| Onion Powder | 1 Part |
+| Dried Oregano | 1 Part |
+| Paprika | 2 Parts |
+| Kosher Salt | 4 Parts |
+| Black Pepper | 2 Parts |
+
 [^1]: [Source: All Recipes](https://www.allrecipes.com/recipe/46653/taco-seasoning-i/)
