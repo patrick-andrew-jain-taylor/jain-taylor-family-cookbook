@@ -6,7 +6,7 @@ image:
   thumbnail: /assets/img/pizza-dough-400x255.jpg
   caption: "['easy peasy pizza dough'](https://www.flickr.com/photos/51231869@N03/5964976210) by [cwisnieski](https://www.flickr.com/photos/51231869@N03) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)"
 categories: [Miscellaneous]
-tags: [Veg]
+tags: [Vegetarian]
 ---
 
 Good things come to those who wait.

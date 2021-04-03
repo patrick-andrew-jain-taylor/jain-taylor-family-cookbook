@@ -6,7 +6,7 @@ image:
   thumbnail: /assets/img/avocado-toast-252x300.jpg
   caption: "A nice mix of green and orange"
 categories: [Breakfast]
-tags: [Veg]
+tags: [Vegetarian]
 ---
 
 A delicious, fatty breakfast.
