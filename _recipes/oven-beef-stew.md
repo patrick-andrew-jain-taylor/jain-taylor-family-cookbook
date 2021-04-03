@@ -35,4 +35,4 @@ A hearty meal for the coldest of New England winters.
   * Cut Carrots
 3. Add soup mixture on top, and stir.
 4. Cover with foil.
-5. Bake at 350&deg;F for 1 1/2 - 2 hours, until veggies are soft.
+5. Bake at 350&deg;F (175&deg;C) for 1 1/2 - 2 hours, until veggies are soft.
