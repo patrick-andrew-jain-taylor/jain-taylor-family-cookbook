@@ -15,14 +15,14 @@ The most important ingredient in a good pizza - the sauce!
 
 | Ingredient | Quantity |
 |:-:|:-:|
-| San Marzano Tomatoes | Two 28-ounce cans, pureed |
-| Tomato Paste | 1/2 Cup |
-| Garlic | 3 Cloves, whole |
-| Dried Oregano | 1/4 Cup |
-| Paprika | 1 Tablespoon |
-| Cayenne Powder | 2 Teaspoons |
-| Salt | 2 Teaspoons |
-| Olive Oil | 2 Tablespoons |
+| San Marzano Tomatoes | One 28-ounce cans, pureed |
+| Tomato Paste | 1/4 Cup |
+| Garlic | 2 Cloves, whole |
+| Dried Oregano | 2 Tablespoons |
+| Paprika | 1/2 Tablespoon |
+| Cayenne Powder | 1 Teaspoons |
+| Salt | 1 Teaspoons |
+| Olive Oil | 1 Tablespoons |
 | Red Pepper Flakes | To Taste |
 
 ## Instructions
@@ -30,4 +30,4 @@ The most important ingredient in a good pizza - the sauce!
 1. Put all ingredients in blender or food processor, and blend until just broken down and integrated. This should take no more than 20 seconds.[^2]
 
 [^1]: [Source: Toddzilla's Bar Pizza Recipe](https://barpizzabarpizza.com/recipe/toddzillas-bar-pizza-recipe/)
-[^2]: A 10" pizza will use a little more than 1/3 cup of sauce, and this recipe wil make about 10 pizzas, depending on how much sauce you like.
+[^2]: A 10" pizza will use a little more than 1/2 cup of sauce, and this recipe wil make about 5 pizzas, depending on how much sauce you like.
