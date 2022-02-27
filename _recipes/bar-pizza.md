@@ -27,7 +27,7 @@ An Eastern Massachusetts Classic!
 4. After proofing, flatten the dough with your hands, and make rows of tiny holes with your fingernails. This will result in a golf ball effect.
 5. Preheat the oven to 500F in convection mode with pizza stone(s) laid on racks for roughly 1 hour.[^4]
 6. Prep pizza sauce in a blender or food processor.[^5]
-7. Add a little more than 1/3 cup of sauce on the pizza, and spread with ladle in a circular motion.[^6]
+7. Add a little more than 1/2 cup of sauce on the pizza, and spread with ladle in a circular motion.[^6]
 8. Add handfuls of pizza cheese blend on top of the sauce.[^7]
 9. Add desired toppings.[^8]
 10. Once oven is preheated, place pan(s) on pizza stone(s) and bake for between 12-14 minutes.[^9]
