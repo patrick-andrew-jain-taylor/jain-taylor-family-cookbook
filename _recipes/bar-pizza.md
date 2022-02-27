@@ -25,7 +25,7 @@ An Eastern Massachusetts Classic!
 2. Grease baking pan(s) with 2 teaspoons of olive oil.[^2]
 3. Flatten dough into a circle, but do not over knead. Let them proof for either 1/2 hour in the warm oven, or let them rise at room temperature for about an hour.[^3]
 4. After proofing, flatten the dough with your hands, and make rows of tiny holes with your fingernails. This will result in a golf ball effect.
-5. Preheat the oven to 500F in convection mode with pizza stone(s) laid on racks for roughly 1 hour.[^4]
+5. Preheat the oven to 500F in convection mode.[^4]
 6. Prep pizza sauce in a blender or food processor.[^5]
 7. Add a little more than 1/2 cup of sauce on the pizza, and spread with ladle in a circular motion.[^6]
 8. Add handfuls of pizza cheese blend on top of the sauce.[^7]
@@ -45,7 +45,7 @@ An Eastern Massachusetts Classic!
 [^1]: We recommend [Lloyd Pans](https://lloydpans.com/).
 [^2]: You can also use a plate if you do not have pans.
 [^3]: If you have more patience than me, let them rise longer. This will make for a stretchier dough.
-[^4]: We've done ito as quick as 30 minutes. It takes about an hour to make sure the stone is uniformly heated.
+[^4]: In the past, we used pizza stone(s) laid on racks for 30 minutes to 1 hour, ensuring uniform heat.
 [^5]: If pre-prepped and frozen, let it thaw in the fridge for 4 hours, or submerge in a cold bath for 90 minutes. Bring to room temperature if possible.
 [^6]: You want sauce around the edge of the pizza to achieve burnt edges.
 [^7]: To ensure uniformity, tap the edges while rotating the pans.
