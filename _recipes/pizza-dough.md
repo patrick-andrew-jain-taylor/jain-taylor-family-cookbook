@@ -30,7 +30,7 @@ Good things come to those who wait.
 4. Grease the mixing bowl with 2 teaspoons of olive oil.
 5. Add the dough back into the bowl, cover the bowl with plastic wrap, and place in a warm area for 60-90 minutes.[^5]
 
-[^1]: Makes 4 pizzas.
+[^1]: Makes 5 pizzas.
 [^2]: I have also found an equal mix of bread and all-purpose flour to work, but it makes a chewier crust.
 [^3]: To get your water to 110F, heat room temp water in the microwave for about 40 seconds, or cold water for 60 seconds. This is critical to the fermentation process, do not eyeball it! If you don't have an infrared thermometer handy, you can use a meat thermometer.
 [^4]: Too sticky? Add flour, 1 tablespoon at a time. Too dry? Add water, water, 1 tablespoon at a time.
