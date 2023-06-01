@@ -14,34 +14,34 @@ pjt:
       icon: fab fa-github-square
 dmt:
   name: Denise (Zimmerman) Taylor
-  picture: "/assets/img/dmt.jpg"
+  picture: "/assets/img/authors/dmt.jpg"
 rkb:
   name: Rachel "Kate" (Taylor) Brown
-  picture: "/assets/img/rkb.jpg"
+  picture: "/assets/img/authors/rkb.jpg"
 amm:
   name: Ann-Marie (Zimmerman) Morin
-  picture: "/assets/img/amm.jpg"
+  picture: "/assets/img/authors/amm.jpg"
 asd:
   name: Andrea (Zimmerman) Delmonte
-  picture: "/assets/img/asd.jpg"
+  picture: "/assets/img/authors/asd.jpg"
 gg:
   name: Alveda "GG" (Braga) Crovello
-  picture: "/assets/img/gg.jpg"
+  picture: "/assets/img/authors/gg.jpg"
 rtm:
   name: Ruth "Ruthie" (Hoyle) Morin
-  picture: "/assets/img/rtm.jpg"
+  picture: "/assets/img/authors/rtm.jpg"
 sc:
   name: Sue Crovello
 dmc:
   name: Daphne (Culpin) Taylor
 dpm:
   name: Dennis Morin
-  picture: "/assets/img/dpm.jpg"
+  picture: "/assets/img/authors/dpm.jpg"
 mft:
   name: Matthew Taylor
-  picture: "/assets/img/mft.jpg"
+  picture: "/assets/img/authors/mft.jpg"
 jfz:
   name: Joyce (Crovello) Zimmerman
-  picture: "/assets/img/jfz.jpg"
+  picture: "/assets/img/authors/jfz.jpg"
 cdn:
   name: Colleen (Dorsey) Needham
