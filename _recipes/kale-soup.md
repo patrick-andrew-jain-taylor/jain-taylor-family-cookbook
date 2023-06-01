@@ -31,8 +31,9 @@ A Portuguese staple, passed down by the OG.
 2. Fill pot with water and beans, bring to a boil, then simmer for 2 hours.
 3. Add linguiça, chouriço, salt, pepper, and crushed red pepper. Simmer for another 2 hours, or until beans are salt.[^3]
 4. Add tomato paste, potatoes, and kale. Cook on low for 1 hour, or until potatoes are done.
+5. Eat with plenty of cayenne-based hot sauces (our family swears by Frank's RedHot!)
 
-> Enjoy, and don't forget the love!
+> Don't forget the love!
 
 [^1]: I use Russet.
 [^2]: Can also use frozen.
