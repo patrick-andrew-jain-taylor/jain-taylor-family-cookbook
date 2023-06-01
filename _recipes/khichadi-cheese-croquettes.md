@@ -2,7 +2,7 @@
 author: rsj
 title: Khichadi & Cheese Croquettes
 image:
-  path: /assets/img/khichadi-cheese-croquettes.jpg
+  path: /assets/img/khichadi-cheese-croquettes.jpeg
   thumbnail: /assets/img/khichadi-cheese-croquettes-400x300.jpg
   caption: "['Cheese Croquettes - Belgian Beer Cafe Bluestone AUD9'](https://www.flickr.com/photos/10559879@N00/3067444887) by [avlxyz](https://www.flickr.com/photos/10559879@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse)."
 categories: [Entrees]
