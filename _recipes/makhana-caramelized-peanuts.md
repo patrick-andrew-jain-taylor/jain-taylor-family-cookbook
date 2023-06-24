@@ -1,6 +1,6 @@
 ---
 author: rsj
-title: Khichadi & Cheese Croquettes
+title: Makhana Caramelized Peanuts
 image:
   path: /assets/img/makhana-caramelized-peanuts.jpeg
   thumbnail: /assets/img/makhana-caramelized-peanuts-400x400.jpg
