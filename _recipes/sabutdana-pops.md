@@ -38,5 +38,5 @@ Crunchy, tapioca balls!
 8. Grease the appam pan, and place the balls in the pan.
 9. Cover with lid, simmer until golden brown.
 
-[^1] This can be substituted for [small pearl tapioca](https://www.amazon.com/Bobs-Red-Mill-Tapioca-Small/dp/B00VHNUXHY).
-[^2] This is a non-stick appliance typically made for little idli. [Here's an Amazon link](https://www.amazon.com/Stick-Appam-Nonstick-Chetty-Paniyaram/dp/B07BMYG8X6)
+[^1]: This can be substituted for [small pearl tapioca](https://www.amazon.com/Bobs-Red-Mill-Tapioca-Small/dp/B00VHNUXHY).
+[^2]: This is a non-stick appliance typically made for little idli. [Here's an Amazon link](https://www.amazon.com/Stick-Appam-Nonstick-Chetty-Paniyaram/dp/B07BMYG8X6)

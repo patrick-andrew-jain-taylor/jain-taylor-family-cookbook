@@ -45,11 +45,11 @@ Desi ice cream, five ways!
 
 ### Topping Options
 
-[^1] Add chocolate chips randomly and on top of the ice cream.
-[^2] Add caramel sauce randomly and on top, or top it up with walnuts
-[^3] Add oreo cookie chunks
-[^4] Add mango pieces or pistachio randomly and on top
-[^5] Top with chocolate sauce
+[^1]: Add chocolate chips randomly and on top of the ice cream.
+[^2]: Add caramel sauce randomly and on top, or top it up with walnuts
+[^3]: Add oreo cookie chunks
+[^4]: Add mango pieces or pistachio randomly and on top
+[^5]: Top with chocolate sauce
 
 ## Final Step
 Cover the container with cling wrap & chill for 2 hours then churn again with beater for 5-7 minutes
