@@ -5,7 +5,6 @@ image:
   path: /assets/img/subatdana-pops.jpeg
   thumbnail: /assets/img/subatdana-pops-400x300.jpg
   caption: "['Cucumber Raita Recipe by Sonia Goyal'](https://www.flickr.com/photos/115727405@N06/24456030683) by [Sonia Goyal Jaipur](https://www.flickr.com/photos/115727405@N06) is licensed under [CC BY-SA 2.0.](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse)"
-  caption: "['Spinach Artichoke Dip'](https://www.flickr.com/photos/7390466@N06/5593025784) by [Mike Saechang](https://www.flickr.com/photos/7390466@N06) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)"
 categories: [Snacks]
 tags: [Vegetarian]
 ---
@@ -16,7 +15,7 @@ Crunchy, tapioca balls!
 
 | Ingredient | Preparation |
 |:-:|:-:|
-| Sago [^1] | Dry |
+| Sago[^1] | Dry |
 | Potatoes | Boiled |
 | Green Chilies | Chopped |
 | Peanuts | Crushed |
@@ -28,7 +27,7 @@ Crunchy, tapioca balls!
 | Buttermilk | Fresh |
 
 ## Instructions
-1. Retrieve an appam pan. [^2]
+1. Retrieve an appam pan.[^2]
 2. Split sago into 2 portions. Soak one portion in water, and run one portion under the tap.
 3. Grate the boiled potatoes.
 4. Remove excess water from soaked sago.
