@@ -22,7 +22,7 @@ A delicious summertime meal!
 | Crab Meat | 1 Can |
 | Lemon | 1 |
 
-## Ingredients
+## Instructions
 
 1. Pre-heat oven to 350&deg;F (175&deg;C).
 2. Combine crackers, chopped onion, melted butter, and crab meat.

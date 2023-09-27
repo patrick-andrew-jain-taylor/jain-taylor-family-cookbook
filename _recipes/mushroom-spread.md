@@ -27,6 +27,7 @@ A vegetarian alternative to [Clam Spread](clam-spread.md)
 | American Cheese | Slices to Cover the Top |
 
 ## Instructions
+
 1. Simmer mushroom stock and lemon juice in small pan for 5-10 minutes.
 2. In medium frying pan, melt butter and sauté remaining ingredients except bread crumbs and cheese for 5-10 minutes or until vegetables are tender.
 3. Remove both pans from heat and combine with mushroom stock, lemon juice with vegetables and bread crumbs.

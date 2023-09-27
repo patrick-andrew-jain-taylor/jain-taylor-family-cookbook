@@ -12,6 +12,7 @@ tags: [Veg, Meat]
 An Eastern Massachusetts Classic!
 
 ## Ingredients
+
 * [Pizza Dough](pizza-dough.md)
 * [Pizza Sauce](pizza-sauce.md)
 * [Pizza Cheese Blend](pizza-cheese.md)
@@ -36,11 +37,11 @@ An Eastern Massachusetts Classic!
 ## Credits
 
 * [Toddzilla's Bar Pizza Recipe](https://barpizzabarpizza.com/recipe/toddzillas-bar-pizza-recipe/)
-    * Used sauce recipe and some prep instructions for putting the pizza together.
-    * His [YouTube video](https://youtu.be/89cRH9-12gU) was extremely helpful in getting the mechanics worked out!
+  * Used sauce recipe and some prep instructions for putting the pizza together.
+  * His [YouTube video](https://youtu.be/89cRH9-12gU) was extremely helpful in getting the mechanics worked out!
 * [South Shore Bar Pizza Social Club](https://www.facebook.com/groups/southshorebarpizzasocialclub/)
-    * Can be a bit chatty, but there are some really helpful links.
-    * Good community to get recipe feedback, but there will be PITAs!
+  * Can be a bit chatty, but there are some really helpful links.
+  * Good community to get recipe feedback, but there will be PITAs!
 
 [^1]: We recommend [Lloyd Pans](https://lloydpans.com/).
 [^2]: You can also use a plate if you do not have pans.

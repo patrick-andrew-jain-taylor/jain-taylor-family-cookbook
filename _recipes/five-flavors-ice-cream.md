@@ -13,8 +13,6 @@ Desi ice cream, five ways!
 
 ## Ingredients
 
-### Base Mixture
-
 | Ingredient | Quantity |
 |:-:|:-:|
 | Full Fat Milk | 1 1/2 Liters |
@@ -28,7 +26,7 @@ Desi ice cream, five ways!
 1. Boil milk until thickened.
 2. Add sugar
 3. Mix & cook.
-4. Add corn starch diluted in cold milk. 
+4. Add corn starch diluted in cold milk.
 5. Simmer and simmer for 5-7 minutes
 6. Use a spatula to check for thickness, and stir periodically
 7. After thickened, While warm, add 3 tbsp of malai, 3 tbsp of milk powder, and 1 1/2 tsp vanilla extract.
@@ -52,4 +50,5 @@ Desi ice cream, five ways!
 [^5]: Top with chocolate sauce
 
 ## Final Step
+
 Cover the container with cling wrap & chill for 2 hours then churn again with beater for 5-7 minutes

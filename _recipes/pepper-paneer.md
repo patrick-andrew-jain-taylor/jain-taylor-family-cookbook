@@ -35,11 +35,11 @@ A colorful way to use every bell pepper under the sun in your vegetable drawer.
 | Asafoetida | Pinch |
 | Lime Juice | To Taste |
 
-
 ## Instructions
+
 1. Heat oil on medium heat with cumin seeds. Heat until the seeds begin to move around ("dance") in the oil.
 2. Add pinch of asafoetida and 1 teaspoon of garam masala. Mix until the spices are thick from the oil.
-3. Add yellow & red onions, and combine with thick spiced oil. 
+3. Add yellow & red onions, and combine with thick spiced oil.
 4. Reduce heat to low, and cook until onions are brown. This takes about 10 minutes, but stir occasionally to prevent sticking.
 5. Add salt & peppers, then mix.[^2]
 6. Add ginger garlic paste, then mix.
