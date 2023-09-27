@@ -22,6 +22,7 @@ A great vegetarian gameday option.
 | Monterey Jack Cheese | 6 oz (170 g) , Shredded |
 
 ## Instructions
+
 1. Pre-heat oven to 400&deg;F (200&deg;C).
 2. In 2-quart casserole dish, combine sour cream and Parmesan cheese.
 3. Add spinach and artichokes. Mix well.

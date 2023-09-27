@@ -29,10 +29,12 @@ A hearty meal for the coldest of New England winters.
 
 1. In a large bowl, mix together soup mix, mushroom soup, water, salt, and pepper.
 2. In large baking dish, add:
-  * Cut-up Stew Beef
-  * Cubed Potatoes
-  * Quartered Onion
-  * Cut Carrots
+
+* Cut-up Stew Beef
+* Cubed Potatoes
+* Quartered Onion
+* Cut Carrots
+
 3. Add soup mixture on top, and stir.
 4. Cover with foil.
 5. Bake at 350&deg;F (175&deg;C) for 1 1/2 - 2 hours, until veggies are soft.

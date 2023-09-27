@@ -27,6 +27,7 @@ Crunchy, tapioca balls!
 | Buttermilk | Fresh |
 
 ## Instructions
+
 1. Retrieve an appam pan.[^2]
 2. Split sago into 2 portions. Soak one portion in water, and run one portion under the tap.
 3. Grate the boiled potatoes.

@@ -26,9 +26,8 @@ Crunchy, tapioca balls!
 | [Eno](https://www.amazon.com/Eno-Fruit-Salt-3-5-100g/dp/B000JWM7JG) | Powdered |
 | Coconut Chutney | Prepared |
 
-
-
 ## Instructions
+
 1. Dry roast oats and grind to thin powder.
 2. Add curd, grated carrots, coriander, green chillies, salt
 3. Temper mustard seeds and urad dal.

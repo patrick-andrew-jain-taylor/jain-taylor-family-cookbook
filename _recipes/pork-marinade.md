@@ -31,7 +31,8 @@ Also tastes great with chicken!
 
 > Makes very yummy roasted potatoes and carrots.
 
-## Marinaton
+## Marination
+
 1. Marinate for a day for best flavor.
 2. Place pork (or chicken) in baking dish with marinade.
 3. Add water.

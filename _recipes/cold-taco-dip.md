@@ -30,13 +30,15 @@ A Delmonte favorite!
 1. Shred Lettuce.
 2. Chop tomato, onion, and pepper
 3. Create layers in sequence:
-  * Cream Cheese
-  * Sour cream
-  * Cottage cheese
-  * Salsa
-  * Lettuce
-  * Tomato
-  * Onion
-  * Pepper
-  * Cheddar Cheese
+
+* Cream Cheese
+* Sour cream
+* Cottage cheese
+* Salsa
+* Lettuce
+* Tomato
+* Onion
+* Pepper
+* Cheddar Cheese
+
 4. Serve with tortilla chips.

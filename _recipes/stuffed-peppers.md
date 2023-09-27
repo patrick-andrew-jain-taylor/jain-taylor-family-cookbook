@@ -26,6 +26,7 @@ A great way to use extra peppers!
 | Crushed Red Pepper | To Taste |
 
 ## Instructions
+
 1. Prepare rice according to package.
 2. Cut the top off the peppers, and scoop out the seeds and white stuff.
 3. Blanch the peppers for 5 minutes. Place in baking dish.

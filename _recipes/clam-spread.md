@@ -26,11 +26,12 @@ A Taylor Thanksgiving staple!
 | American Cheese | Slices to Cover the Top |
 
 ## Instructions
+
 1. Simmer clam with liquid and lemon juice in small pan for 5-10 minutes.
 2. In medium frying pan, melt butter and sauté remaining ingredients except bread crumbs and cheese for 5-10 minutes or until vegetables are tender.
 3. Remove both pans from heat and combine with mushroom stock, lemon juice with vegetables and bread crumbs.
 4. Place mixture in small baking dish, top with cheese, and bake at 350&deg;or microwave until dip is hot and cheese is melted.
- 
+
 > Serve hot with crackers.
 
 [^1]: Not 34, Not 36 -- 35 :)

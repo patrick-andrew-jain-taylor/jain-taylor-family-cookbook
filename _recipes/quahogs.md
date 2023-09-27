@@ -30,6 +30,7 @@ A go-to during the summertime, paired with a bottle of Tabasco.
 | Pepper | To Taste |
 
 ## Instructions
+
 1. Steam quahogs. Keep the broth.
 2. Cut quahogs with kitchen scissors.
 3. Saute quahogs with 1/4 stick of butter (2 tablespoons), linguica, onion, red pepper, and garlic until veggies are soft.
