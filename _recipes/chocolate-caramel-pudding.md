@@ -30,10 +30,12 @@ Delicious, creamy pudding!
 5. Stir immediately, set to simmer, until dark and thick.
 6. Let cool.
 7. Assemble:
-1. Crushed oreo biscuits layer
-2. Caramel layer
-3. Toasted walnut layer
-4. Dark chocolate ganache
+
+* Crushed oreo biscuits layer
+* Caramel layer
+* Toasted walnut layer
+* Dark chocolate ganache
+
 8. Refrigerate for 1 hour.
 9. Spread chocolate over bubble wrap and cool.
 10. Top with walnuts and bubbled chocolate before serving.
