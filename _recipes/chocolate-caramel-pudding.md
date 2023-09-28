@@ -2,7 +2,7 @@
 author: rsj
 title: Chocolate Caramel Pudding
 image:
-  path: /assets/img/chocolate-caramel-pudding.jpg
+  path: /assets/img/chocolate-caramel-pudding.jpeg
   thumbnail: /assets/img/chocolate-caramel-pudding-400x267.jpg
   caption: "['choclate pudding pie'](https://www.flickr.com/photos/78011127@N00/3332133990) by [ginnerobot](https://www.flickr.com/photos/78011127@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse)."
 categories: [Snacks]
