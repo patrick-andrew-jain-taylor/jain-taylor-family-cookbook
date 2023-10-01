@@ -17,7 +17,7 @@ Go out and buy the biggest bottle of Frank's you can -- you're going to need it!
 |:-:|:-:|
 | Boneless Chicken Thighs[^1] | 8 |
 | Jasmine Rice | 2 1/2 Cups, Dry |
-| Red Bell Pepper[^2] | 2 1/2 Cups, Dry |
+| Red Bell Pepper[^2] | 1 |
 | Onion | 1 Medium-Large |
 | Garlic Cloves | 3-4, or 2-3 Tablespoons Jarred Minced |
 | Tomato Paste | 1 6 oz (170 g) can |
@@ -39,9 +39,8 @@ Go out and buy the biggest bottle of Frank's you can -- you're going to need it!
 9. Add 2 1/2 Cups of Jasmine rice. Turn temp down to low and cover.
 10. Stir often so it doesn't stick to the pan.
 11. Cook until rice is soft, and liquid is gone (20-25 minutes)[^7]
-12. Serve with Frank's Red Hot.
 
-> Variation with Tofurky Chick'n coming soon!
+> Serve with Frank's Red Hot!
 
 [^1]: GG used bone-in.
 [^2]: GG used green.
