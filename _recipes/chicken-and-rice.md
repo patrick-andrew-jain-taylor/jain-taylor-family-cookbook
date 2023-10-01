@@ -17,7 +17,7 @@ Go out and buy the biggest bottle of Frank's you can -- you're going to need it!
 |:-:|:-:|
 | Boneless Chicken Thighs[^1] | 8 |
 | Jasmine Rice | 2 1/2 Cups, Dry |
-| Red Bell Pepper[^2] | 2 1/2 Cups, Dry |
+| Red Bell Pepper[^2] | 1 |
 | Onion | 1 Medium-Large |
 | Garlic Cloves | 3-4, or 2-3 Tablespoons Jarred Minced |
 | Tomato Paste | 1 6 oz (170 g) can |
