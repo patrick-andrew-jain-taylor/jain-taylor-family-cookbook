@@ -2,9 +2,9 @@
 author: ajt
 title: Vermicelli Kheer
 image:
-  path: /assets/img/vermicelli-kheer.jpeg
-  thumbnail: /assets/img/vermicelli-kheer-400x300.jpeg
-  caption: "Look at that color!"
+  path: /assets/img/vermicelli-kheer.jpg
+  thumbnail: /assets/img/vermicelli-kheer-400x300.jpg
+  caption: "As sweet as they come!"
 categories: [Dessert]
 tags: [Vegetarian]
 ---
