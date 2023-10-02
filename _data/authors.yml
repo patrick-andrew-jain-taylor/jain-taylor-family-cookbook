@@ -12,6 +12,9 @@ pjt:
     - title: GitHub
       url: https://github.com/patrick-andrew-jain-taylor
       icon: fab fa-github-square
+ajt:
+  name: Akanksha (Jain) Jain-Taylor
+  picture: "/assets/img/authors/ajt.jpg"
 dmt:
   name: Denise (Zimmerman) Taylor
   picture: "/assets/img/authors/dmt.jpg"
@@ -48,4 +51,3 @@ cdn:
 rsj:
   name: Renu (Sharma) Jain
   picture: "/assets/img/authors/rsj.jpg"
-
