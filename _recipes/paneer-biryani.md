@@ -15,7 +15,7 @@ A northern indian classic!
 
 | Ingredient | Quantity |
 |:-:|:-:|:-:|
-| Frozen Paneer | 2.5 lbs |
+| Frozen Paneer | 1 lb |
 | Dahi Curd | 2 cups |
 | Ginger Garlic Paste | 2 tsp |
 | Turmeric | 1/2 tsp |
