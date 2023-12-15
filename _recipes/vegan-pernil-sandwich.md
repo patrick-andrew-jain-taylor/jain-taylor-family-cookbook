@@ -13,7 +13,7 @@ Inspired by [Sophie's Cuban Cuisine's](https://www.sophiescuban.com/) Pernil wit
 
 ## Ingredients
 
-- [Vegan Pernil](https://cooking.nytimes.com/recipes/1024877-vegan-jackfruit-pernil))[^1]
+- [Vegan Pernil](https://cooking.nytimes.com/recipes/1024877-vegan-jackfruit-pernil)[^1]
 - [Aji Verde (Green Sauce)](https://recipes.jaintaylor.family/recipes/miscellaneous/green-sauce/)[^2]
 - [Quick-Pickled Red Onions](https://www.bonappetit.com/recipe/quick-pickled-onions)[^3]
 - [Goya Maduros (Fried Plantains)](https://www.goya.com/en/products/ripe-plantains)[^4]
@@ -44,9 +44,9 @@ Inspired by [Sophie's Cuban Cuisine's](https://www.sophiescuban.com/) Pernil wit
 
 > Eat with lots, and lots, and lots, of aji verde!
 
-[^1]: Requires canned jackfruit in brine, found in most asian markets.
+[^1]: Requires canned jackfruit in brine, found in most Asian markets.
 [^2]: The more jalapeno, the better.
 [^3]: For an extra kick, add in some [Tajín](https://www.tajin.com/us)!
-[^4]: Can be found at most mexican markets.
+[^4]: Can be found at most Mexican markets.
 [^5]: This is traditionally made with [cuban bread](https://en.wikipedia.org/wiki/Cuban_bread), but any sub-like form of bread would do!
 [^6]: We prefer pan fried!
