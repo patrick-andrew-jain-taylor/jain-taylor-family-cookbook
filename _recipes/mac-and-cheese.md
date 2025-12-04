@@ -18,7 +18,7 @@ Inspired by the Mac and Cheese at [Michael Jordan's Steakhouse](https://www.mich
 | Cavatappi Pasta | 1 Pound |
 | Skim Milk | 3 1/2 Cups |
 | Unsalted Butter | 6 Tbsp |
-| All-Purpose Floud | 3/4 Cup |
+| All-Purpose Flour | 3/4 Cup |
 | Dijon Mustard | 1 1/2 Tbsp |
 | Worcestershire Sauce | 1 Tbsp |
 | Kosher Salt | 2 Tsp |
