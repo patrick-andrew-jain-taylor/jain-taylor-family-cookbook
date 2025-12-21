@@ -2,9 +2,9 @@
 author: dmt
 title: Artichoke Dip
 image:
-  path: /assets/img/mushroom-dip.jpg
-  thumbnail: /assets/img/mushroom-dip-400x300.jpg
-  caption: "['mushroom spread'](https://www.flickr.com/photos/21114513@N08/3867962030) by [mollyjade](https://www.flickr.com/photos/21114513@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)"
+  path: /assets/img/artichoke-dip.jpg
+  thumbnail: /assets/img/artichoke-dip-400x225.jpg
+  caption: "Perfect for board games!"
 categories: [Appetizers]
 tags: [Vegetarian]
 ---
