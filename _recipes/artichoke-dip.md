@@ -1,5 +1,5 @@
 ---
-author: dmt
+author: rkb
 title: Artichoke Dip
 image:
   path: /assets/img/artichoke-dip.jpg
