@@ -9,7 +9,7 @@ categories: [Appetizers]
 tags: [Vegetarian]
 ---
 
-A vegetarian alternative to [Clam Dip](clam-dip.md)
+A vegetarian alternative to [Clam Dip](https://recipes.jaintaylor.family/recipes/appetizers/clam-dip/)
 
 ## Ingredients
 
