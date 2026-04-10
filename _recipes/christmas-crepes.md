@@ -54,6 +54,6 @@ For efficiency, prepare components in this order:
 
 ## Serving Suggestion
 
-Serve 2-3 crepes of each style per person, allowing diners to enjoy both savory and sweet variations in one meal.
+Serve 2-3 small crepes of each style per person, allowing diners to enjoy both savory and sweet variations in one meal. If using large crepes, you may want 1-2 of each style, or scale up the crepe batter as needed.
 
 > This recipe is best enjoyed fresh, with components prepared as close to serving time as possible. However, crepes can be made ahead and wrapped in plastic wrap or parchment to keep warm. Be generous with the Nutella! Whipped cream serves as the finishing touch; use freshly whipped if possible for best results.
