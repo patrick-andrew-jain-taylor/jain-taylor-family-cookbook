@@ -1,0 +1,9 @@
+# Copilot reviews all pull requests to this repository
+* @copilot
+
+# Recipes require Copilot review
+_recipes/ @copilot
+
+# Configuration changes require Copilot review
+.github/ @copilot
+_config.yml @copilot
