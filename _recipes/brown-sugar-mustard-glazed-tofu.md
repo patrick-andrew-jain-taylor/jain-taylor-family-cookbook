@@ -6,7 +6,7 @@ image:
   thumbnail: /assets/img/brown-sugar-mustard-glazed-tofu-400x225.jpg
   caption: "Sweet, savory, and delicious!"
 categories: [Entrees]
-tags: [Vegetarian]
+tags: [Vegetarian, Vegan]
 ---
 
 A savory-sweet glazed tofu with a sticky brown sugar coating and warm mustard notes. Perfect as a protein component for crepes or as a standalone entrée.

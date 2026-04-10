@@ -15,7 +15,7 @@ A Jain-Taylor family Christmas tradition combining delicate crepes with both sav
 
 ## Components
 
-* [Crepes](crepes.md) — 10 crepes (8 large or 16 small from base recipe)
+* [Crepes](crepes.md) — Makes 8 large or 16 small crepes
 * [Brown Sugar & Mustard Glazed Tofu](brown-sugar-mustard-glazed-tofu.md)
 * [Velveeta Sauce](velveeta-sauce.md)
 * [Berry Compote](berry-compote.md)
