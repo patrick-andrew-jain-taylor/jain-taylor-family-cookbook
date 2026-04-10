@@ -4,14 +4,12 @@ title: Velveeta Sauce
 image:
   path: /assets/img/velveeta-sauce.jpg
   thumbnail: /assets/img/velveeta-sauce-400x225.jpg
-  caption: "Creamy, cheesy, and delicious!"
+  caption: "['CheeseSauce2'](https://www.flickr.com/photos/24013072@N05/3938832919) by [YoAmes](https://www.flickr.com/photos/24013072@N05/) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
 categories: [Miscellaneous]
 tags: [Vegetarian]
 ---
 
 A simple cheese sauce made from Velveeta. Perfect for savory crepe fillings or as a topping.
-
-*Image sourced from Creative Commons.*
 
 ## Ingredients
 

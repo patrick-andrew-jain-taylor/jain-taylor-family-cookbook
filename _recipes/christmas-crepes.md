@@ -4,14 +4,12 @@ title: Christmas Crepes
 image:
   path: /assets/img/christmas-crepes.jpg
   thumbnail: /assets/img/christmas-crepes-400x225.jpg
-  caption: "A Jain-Taylor Christmas Tradition!"
+  caption: "['pancakes'](https://pxhere.com/en/photo/1620854) by [MariaPolna](https://pxhere.com/en/photographer/3243117) is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)."
 categories: [Breakfast]
 tags: [Vegetarian]
 ---
 
 A Jain-Taylor family Christmas tradition combining delicate crepes with both savory and sweet components. This recipe serves 2 people with a choice of two flavor profiles: savory with glazed tofu and Velveeta sauce, or sweet with berry compote, Nutella, and whipped cream.
-
-*Image sourced from Creative Commons.*
 
 ## Components
 

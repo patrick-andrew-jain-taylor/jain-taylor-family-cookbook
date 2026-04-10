@@ -4,14 +4,12 @@ title: Berry Compote
 image:
   path: /assets/img/berry-compote.jpg
   thumbnail: /assets/img/berry-compote-400x225.jpg
-  caption: "Sweet, chunky, and bursting with fruit!"
+  caption: "['File:Blueberry sauce.jpg'](https://commons.wikimedia.org/wiki/File:Blueberry_sauce.jpg) by [Wen Tong Neo](https://www.flickr.com/photos/27678591@N08/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)."
 categories: [Miscellaneous]
 tags: [Vegetarian, Vegan]
 ---
 
 A simple berry compote made by cooking mixed berries down into a chunky syrup. Perfect topping for sweet crepes.
-
-*Image sourced from Creative Commons.*
 
 ## Ingredients
 

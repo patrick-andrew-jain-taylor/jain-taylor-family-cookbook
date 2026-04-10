@@ -4,14 +4,14 @@ title: Brown Sugar & Mustard Glazed Tofu
 image:
   path: /assets/img/brown-sugar-mustard-glazed-tofu.jpg
   thumbnail: /assets/img/brown-sugar-mustard-glazed-tofu-400x225.jpg
-  caption: "Sweet, savory, and delicious!"
+  caption: "['File:Spicy orange glazed tofu w Israeli couscous and ginger glazed carrots (4260850655).jpg'](https://commons.wikimedia.org/wiki/File:Spicy_orange_glazed_tofu_w_Israeli_couscous_and_ginger_glazed_carrots_(4260850655).jpg) by [Karen and Brad Emerson](https://www.flickr.com/photos/10293577@N03/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)."
 categories: [Entrees]
 tags: [Vegetarian, Vegan]
 ---
 
 A savory-sweet glazed tofu with a sticky brown sugar coating and warm mustard notes. Perfect as a protein component for crepes or as a standalone entrée.
 
-*Image sourced from Creative Commons. Adapted from [It Doesn't Taste Like Chicken](https://itdoesnttastelikechicken.com/brown-sugar-mustard-glazed-tofu/).*
+*Adapted from [It Doesn't Taste Like Chicken](https://itdoesnttastelikechicken.com/brown-sugar-mustard-glazed-tofu/).*
 
 ## Ingredients
 
