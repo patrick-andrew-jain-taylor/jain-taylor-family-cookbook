@@ -16,12 +16,13 @@ Go out and buy the biggest bottle of Frank's you can -- you're going to need it!
 | Ingredient | Quantity |
 |:-:|:-:|
 | Tofurky Plant-Based Chick'n | 1 Package |
-| Jasmine Rice | 2 1/2 Cups, Dry |
-| Red Bell Pepper | 2 1/2 Cups, Dry |
-| Onion | 1 Medium-Large |
-| Garlic Cloves | 3-4, or 2-3 Tablespoons Jarred Minced |
+| Jasmine Rice | 1 2 lb bag |
+| Red Bell Pepper | 6 |
+| Onion | 2 |
+| Garlic | 1 Bulb |
+| Great Northern Beans | 2 cans |
 | Tomato Paste | 1 6 oz (170 g) can |
-| Vegetable Broth | 1 package |
+| Vegetable Broth | 2 boxes |
 | Olive Oil | To Taste |
 | Salt | To Taste |
 | Black Pepper | To Taste |
@@ -34,10 +35,10 @@ Go out and buy the biggest bottle of Frank's you can -- you're going to need it!
 1. Chop red pepper, onion, and garlic.
 2. Cook Tofurky Chick'n in large pot[^1] according to package instructions. Set aside.
 3. Sauté red pepper, onion, and garlic in olive oil until vegetables are soft.
-4. Add Tofurky Chick'n back in with the package of vegetable broth and an equivalent amount of water.
+4. Add Tofurky Chick'n back in with the 2 boxes of vegetable broth and an equivalent amount of water.
 5. Add salt, pepper, red crushed pepper, linguica seasoning, portuguese all spice, and tomato paste.
 6. Bring to a boil.
-7. Add 2 1/2 Cups of Jasmine rice. Turn temp down to low and cover.
+7. Add the full 2 lb bag of Jasmine rice. Turn temp down to low and cover.
 8. Stir often so it doesn't stick to the pan.
 9. Cook until rice is soft, and liquid is gone (45 minutes)[^3]
 10. Let rest before serving to allow the rice to absorb any residual liquid.
