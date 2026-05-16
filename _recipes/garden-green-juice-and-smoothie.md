@@ -17,17 +17,17 @@ A fresh green juice paired with a creamy smoothie made from the leftover pulp â€
 | Ingredient | Quantity |
 |:-:|:-:|
 | Granny Smith Apple | 1 |
-| Kale | 2 Stalks |
-| Water | 1 Cup |
-| Fresh Ginger | 1 Teaspoon |
-| Lemon Juice | 1 Tablespoon |
+| Kale Leaves, Stems Removed | 2 stalks equivalent |
+| Water | 1 cup |
+| Fresh Ginger | 1 teaspoon |
+| Lemon Juice | 1 tablespoon |
 
 ### Smoothie
 | Ingredient | Quantity |
 |:-:|:-:|
-| Green Juice Pulp | 2 Cups |
-| Greek Yogurt | 1 Cup |
-| Milk | 1/2 Cup |
+| Green Juice Pulp | 2 cups |
+| Greek Yogurt | 1 cup |
+| Milk | 1/2 cup |
 
 ## Instructions
 
