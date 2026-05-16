@@ -1,19 +1,34 @@
 name: Sourcery Gate
 
 on:
+  pull_request:
+    types: [synchronize]
   pull_request_review:
     types: [submitted]
 
 permissions:
   statuses: write
+  pull-requests: write
 
 jobs:
   sourcery-gate:
     runs-on: ubuntu-latest
     name: Mark Sourcery review received
-    if: contains(github.event.review.user.login, 'sourcery-ai')
     steps:
+      - name: Request Sourcery re-review on new commits
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.pull_request.number,
+              body: '@sourcery-ai review'
+            })
+
       - name: Post sourcery-reviewed status
+        if: github.event_name == 'pull_request_review' && contains(github.event.review.user.login, 'sourcery-ai')
         uses: actions/github-script@v7
         with:
           script: |
