@@ -14,6 +14,7 @@ A fresh green juice paired with a creamy smoothie made from the leftover pulp â€
 ## Ingredients
 
 ### Juice
+
 | Ingredient | Quantity |
 |:-:|:-:|
 | Granny Smith Apple | 1 |
@@ -23,6 +24,7 @@ A fresh green juice paired with a creamy smoothie made from the leftover pulp â€
 | Lemon Juice | 1 tablespoon |
 
 ### Smoothie
+
 | Ingredient | Quantity |
 |:-:|:-:|
 | Green Juice Pulp | 2 cups |
