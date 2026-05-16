@@ -19,9 +19,24 @@ If `$ARGUMENTS` doesn't include enough information, ask the user for:
 - Author (`pjt` unless specified otherwise)
 - A photo, if they have one (ask them to provide the file path, e.g. via `@/path/to/image.png`)
 
-### 2. Process the image (if provided)
+### 2. Derive the slug
 
-Images go in `assets/img/`. The slug is the recipe title lowercased with spaces replaced by hyphens.
+The slug is used for the filename, image files, branch name, and URL. Derive it from the recipe title:
+
+1. Lowercase the entire title
+2. Replace spaces with hyphens
+3. Remove or replace any character that is not a letter, digit, or hyphen:
+   - Ampersands (`&`) → omit (e.g. "Mac & Cheese" → `mac-cheese`)
+   - Apostrophes/quotes → omit (e.g. "Mom's Soup" → `moms-soup`)
+   - Commas, parentheses, slashes, and other punctuation → omit
+4. Collapse multiple consecutive hyphens into one
+5. Strip leading and trailing hyphens
+
+If the resulting slug would collide with an existing file in `_recipes/`, append a short disambiguator (e.g. `-v2`).
+
+### 3. Process the image (if provided)
+
+Images go in `assets/img/`.
 
 ```bash
 # Full-size JPEG
@@ -31,10 +46,11 @@ sips -s format jpeg <input> --out assets/img/<slug>.jpg
 sips -s format jpeg -z 400 300 <input> --out assets/img/<slug>-300x400.jpg
 ```
 
-### 3. Create the recipe file
+### 4. Create the recipe file
 
-Create `_recipes/<slug>.md`. Use this structure exactly:
+Create `_recipes/<slug>.md`.
 
+**With image:**
 ```markdown
 ---
 author: pjt
@@ -48,27 +64,70 @@ tags: [<Tag>]
 ---
 
 <One-sentence description of the recipe.>
+```
 
+**Without image** (omit the `image:` block entirely):
+```markdown
+---
+author: pjt
+title: <Title>
+categories: [<Category>]
+tags: [<Tag>]
+---
+
+<One-sentence description of the recipe.>
+```
+
+**Ingredients — single section** (no `###` heading needed):
+```markdown
 ## Ingredients
 
-**CRITICAL — Kramdown rule:** always put a blank line between a heading (`###`, `##`, etc.) and a table. Without it, the table renders as raw pipe text in the browser.
+| Ingredient | Quantity |
+|:-:|:-:|
+| <Ingredient> | <Amount> |
+```
 
-### <Section name, e.g. "Sauce"> (omit section heading if there's only one ingredient list)
+**Ingredients — multiple sections** (e.g. separate sauce and filling):
+```markdown
+## Ingredients
+
+### <Section Name>
 
 | Ingredient | Quantity |
 |:-:|:-:|
 | <Ingredient> | <Amount> |
 
+### <Section Name>
+
+| Ingredient | Quantity |
+|:-:|:-:|
+| <Ingredient> | <Amount> |
+```
+
+**CRITICAL — Kramdown rule:** always put a blank line between a heading (`###`, `##`, etc.) and a table. Without it, the table renders as raw pipe text in the browser.
+
+**Instructions — single section** (no `###` heading needed):
+```markdown
 ## Instructions
 
-### <Section name> (omit if only one section)
 1. Step one.
 2. Step two.
 ```
 
-If there is no image, omit the `image:` block entirely.
+**Instructions — multiple sections:**
+```markdown
+## Instructions
 
-### 4. Commit and open a PR
+### <Section Name>
+1. Step one.
+2. Step two.
+
+### <Section Name>
+1. Step one.
+2. Step two.
+```
+
+### 5. Commit and open a PR
 
 Use conventional commit format:
 
