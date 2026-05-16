@@ -1,0 +1,22 @@
+name: Conventional Commits
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  commitlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Lint commit messages
+        run: |
+          echo '{"extends":["@commitlint/config-conventional"]}' > /tmp/commitlint.config.json
+          npx --yes commitlint \
+            --config /tmp/commitlint.config.json \
+            --from ${{ github.event.pull_request.base.sha }} \
+            --to ${{ github.event.pull_request.head.sha }} \
+            --verbose
