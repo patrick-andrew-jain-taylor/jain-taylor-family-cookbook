@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0
 
       - name: Install commitlint
-        run: npm install --no-save @commitlint/cli@19.3.0 @commitlint/config-conventional@19.3.0
+        run: npm install --no-save @commitlint/cli@21.0.1 @commitlint/config-conventional@21.0.1
 
       - name: Lint commit messages
         run: |
