@@ -68,3 +68,11 @@ Commits are linted with `@commitlint/config-conventional` (see `.github/workflow
 When publishing a recipe, after opening its pull request, subscribe to the PR's activity (`subscribe_pr_activity`) so review comments and CI failures are auto-handled until the PR is merged or closed. Do this for every recipe PR going forward.
 
 Once Sourcery has approved the PR (a "thumbs up" — an approving review, not just addressed comments) and CI is green, you have standing permission to merge the PR and then monitor the resulting GitHub Action to confirm the site builds successfully. Do not merge before Sourcery's approval.
+
+## Minimize pushes per PR
+
+Sourcery's free/open-source plan is rate-limited over a rolling 7-day window, and `sourcery-gate.yml` requests a fresh Sourcery review on every push (`synchronize`). Each push therefore consumes the rate limit, and once Sourcery is throttled it stops posting the required `sourcery-reviewed` status — blocking merges. To avoid this:
+
+* Assemble all changes locally and push **once** per PR rather than pushing each small commit as you go.
+* When addressing review feedback, batch the fixes into a single push.
+* Avoid force-push churn; prefer one final amend/rebase over repeated re-pushes.
