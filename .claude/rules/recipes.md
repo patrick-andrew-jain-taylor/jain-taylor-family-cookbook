@@ -58,3 +58,11 @@ Filename must be the recipe title lowercased with spaces replaced by hyphens: `m
 ## Permalink pattern
 
 `/recipes/<category-lowercase>/<slug>/` — derived automatically by Jekyll from the frontmatter.
+
+## Commit messages
+
+Commits are linted with `@commitlint/config-conventional` (see `.github/workflows/commitlint.yml`). Every commit on a recipe PR must use the Conventional Commits format, e.g. `feat: add <recipe> recipe`. Use `feat:` for new recipes/images, `fix:` for corrections, `chore:`/`docs:` for tooling and notes. Keep the subject lowercase.
+
+## PR review workflow
+
+When publishing a recipe, after opening its pull request, subscribe to the PR's activity (`subscribe_pr_activity`) so review comments and CI failures are auto-handled until the PR is merged or closed. Do this for every recipe PR going forward.
