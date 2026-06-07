@@ -25,6 +25,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme # required to load remote_theme on non-GitHub-Pages builds (Netlify previews)
 # Collections
 collections:
   recipes:
