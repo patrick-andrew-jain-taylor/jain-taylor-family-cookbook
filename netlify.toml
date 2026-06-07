@@ -1,0 +1,21 @@
+# Netlify config — used for per-PR Deploy Previews.
+# Production stays on GitHub Pages (recipes.jaintaylor.family); this site is
+# only a build target for previewing branches/PRs before they merge.
+
+[build]
+  command = "bundle exec jekyll build --trace"
+  publish = "_site"
+
+[build.environment]
+  # Pin a Ruby that's compatible with the github-pages gem. If this exact
+  # patch isn't on Netlify's image, bump it to a nearby 3.3.x in the logs.
+  RUBY_VERSION = "3.3.6"
+  # Keep analytics/comments from firing on preview builds.
+  JEKYLL_ENV = "development"
+
+# The real site is indexed via GitHub Pages. Tell crawlers not to index the
+# Netlify mirror or any deploy preview, so we never compete with production.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex"

@@ -1,2 +1,9 @@
 /.idea/
 .DS_Store
+
+# Jekyll / Bundler build artifacts
+/_site/
+/.jekyll-cache/
+/.jekyll-metadata
+/.bundle/
+/vendor/
